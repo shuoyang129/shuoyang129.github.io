@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3581783.3612512,
+author = {Yang, Shuo and Shang, Zirui and Wu, Xinxiao},
+title = {Probability Distribution Based Frame-Supervised Language-Driven Action Localization},
+year = {2023},
+isbn = {9798400701085},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3581783.3612512},
+doi = {10.1145/3581783.3612512},
+abstract = {Frame-supervised language-driven action localization aims to localize action boundaries in untrimmed videos corresponding to the input natural language query, with only a single frame annotation within the target action in training. This task is challenging due to the absence of complete and accurate annotation of action boundaries, hindering visual-language alignment and action boundary prediction. To address this challenge, we propose a novel method that introduces distribution functions to model both the probability of action frame and that of boundary frame. Specifically, we assign each video frame the probability of being the action frame based on the estimated shape parameters of the distribution function, serving as a foreground pseudo-label that guides cross-modal feature learning. Moreover, we model the probabilities of start frame and end frame of the target action using different distribution functions, and then estimate the probability of each action candidate being a positive candidate based on its start and end boundaries, which facilitates predicting action boundaries by exploring more positive terms in training. Experiments on two benchmark datasets demonstrate that our method outperforms existing methods, achieving a gain of more than 10\% of R1@ 0.5 on the challenging TACoS dataset. These results emphasize the significance of generating pseudo labels with appropriate probabilities via distribution functions to address the challenge of frame-supervised language-driven action localization.},
+booktitle = {Proceedings of the 31st ACM International Conference on Multimedia},
+pages = {5164–5173},
+numpages = {10},
+keywords = {distribution, frame-supervised, language-driven action localization, video moment retrieval},
+location = {Ottawa ON, Canada},
+series = {MM '23}
+}
