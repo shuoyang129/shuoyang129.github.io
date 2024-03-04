@@ -101,7 +101,7 @@ My Google Scholar Citations <a href='https://scholar.google.com/citations?user=J
 <div class='paper-box-text' markdown="1">
 
 [High-Order Information Matters: Learning Relation and Topology for Occluded Person Re-Identification](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_High-Order_Information_Matters_Learning_Relation_and_Topology_for_Occluded_Person_CVPR_2020_paper.pdf)
-<a href='https://scholar.google.com/citations?user=JJEEfUIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"><span class='show_paper_citations' data='JJEEfUIAAAAJ:9yKSN-GCB0IC'></span></a>
+<a href='https://scholar.google.com/citations?view_op=view_citation&hl=en&user=JJEEfUIAAAAJ&citation_for_view=JJEEfUIAAAAJ:9yKSN-GCB0IC'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"><span class='show_paper_citations' data='JJEEfUIAAAAJ:9yKSN-GCB0IC'></span></a>
 
 
 - Guan'an Wang$\ast$, **Shuo Yang**$\ast$, Huanyu Liu, Zhicheng Wang, Yang Yang, Shuliang Wang, Gang Yu, Jian Sun
@@ -119,7 +119,7 @@ My Google Scholar Citations <a href='https://scholar.google.com/citations?user=J
 <div class='paper-box-text' markdown="1">
 
 [Joint Hand Detection and Rotation Estimation Using CNN](https://ieeexplore.ieee.org/document/8128503)
-<a href='https://scholar.google.com/citations?user=JJEEfUIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"><span class='show_paper_citations' data='JJEEfUIAAAAJ:u-x6o8ySG0sC'></span></a>
+<a href='https://scholar.google.com/citations?view_op=view_citation&hl=en&user=JJEEfUIAAAAJ&citation_for_view=JJEEfUIAAAAJ:u-x6o8ySG0sC'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"><span class='show_paper_citations' data='JJEEfUIAAAAJ:u-x6o8ySG0sC'></span></a>
 
 
 - Xiaoming Deng, Yinda Zhang, **Shuo Yang**, Ping Tan, Liang Chang, Ye Yuan, Hongan Wang
