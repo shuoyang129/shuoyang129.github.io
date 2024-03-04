@@ -19,7 +19,7 @@ redirect_from:
 
 
 My primary research focuses on the area of vision and language. Presently, I delve into the application of large language models (LLMs) across various tasks involving both vision and language, e.g., language-driven video understanding, open-vocabulary multi-label image recognition. Prior to this, my work revolved around hand detection, hand pose estimation, face recognition, and person re-identification. 
-<!-- My total google scholar citations <a href='https://scholar.google.com/citations?user=JJEEfUIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
+My Google Scholar Citations <a href='https://scholar.google.com/citations?user=JJEEfUIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 <!-- Additionally, I maintain a keen interest in 3D vision encompassing reconstruction and understanding of 3D scenes. -->
 
 <!-- I have published about 10 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -101,7 +101,8 @@ My primary research focuses on the area of vision and language. Presently, I del
 <div class='paper-box-text' markdown="1">
 
 [High-Order Information Matters: Learning Relation and Topology for Occluded Person Re-Identification](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_High-Order_Information_Matters_Learning_Relation_and_Topology_for_Occluded_Person_CVPR_2020_paper.pdf)
-<!-- <span class='show_paper_citations' data='JJEEfUIAAAAJ:9yKSN-GCB0IC'></span> -->
+<a href='https://scholar.google.com/citations?user=JJEEfUIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"><span class='show_paper_citations' data='JJEEfUIAAAAJ:9yKSN-GCB0IC'></span></a>
+
 
 - Guan'an Wang$\ast$, **Shuo Yang**$\ast$, Huanyu Liu, Zhicheng Wang, Yang Yang, Shuliang Wang, Gang Yu, Jian Sun
 
@@ -118,6 +119,8 @@ My primary research focuses on the area of vision and language. Presently, I del
 <div class='paper-box-text' markdown="1">
 
 [Joint Hand Detection and Rotation Estimation Using CNN](https://ieeexplore.ieee.org/document/8128503)
+<a href='https://scholar.google.com/citations?user=JJEEfUIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"><span class='show_paper_citations' data='JJEEfUIAAAAJ:u-x6o8ySG0sC'></span></a>
+
 
 - Xiaoming Deng, Yinda Zhang, **Shuo Yang**, Ping Tan, Liang Chang, Ye Yuan, Hongan Wang
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
