@@ -19,7 +19,7 @@ redirect_from:
 
 
 My primary research focuses on the area of vision and language. Presently, I delve into the application of large language models (LLMs) across various tasks involving both vision and language, e.g., language-driven video understanding, open-vocabulary multi-label image recognition. Prior to this, my work revolved around hand detection, hand pose estimation, face recognition, and person re-identification. 
-My Google Scholar Citations <a href='https://scholar.google.com/citations?user=JJEEfUIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+My publications can be found at Google Scholar <a href='https://scholar.google.com/citations?user=JJEEfUIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"/></a>.
 <!-- Additionally, I maintain a keen interest in 3D vision encompassing reconstruction and understanding of 3D scenes. -->
 
 <!-- I have published about 10 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -84,7 +84,8 @@ My Google Scholar Citations <a href='https://scholar.google.com/citations?user=J
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='images/ijcai22.jpg' alt="sym" width="100%" height="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Entity-aware and Motion-aware Transformers for Language-driven Action Localization](https://www.ijcai.org/proceedings/2022/0216.pdf)
+[Entity-aware and Motion-aware Transformers for Language-driven Action Localization](https://www.ijcai.org/proceedings/2022/0216.pdf) 
+<p><strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:IjCSPb-OGe4C'></span></strong></p>
 
 - **Shuo Yang**, Xinxiao Wu
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
@@ -100,9 +101,8 @@ My Google Scholar Citations <a href='https://scholar.google.com/citations?user=J
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2020</div><img src='images/CVPR20.jpg' alt="sym" width="100%" height="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[High-Order Information Matters: Learning Relation and Topology for Occluded Person Re-Identification](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_High-Order_Information_Matters_Learning_Relation_and_Topology_for_Occluded_Person_CVPR_2020_paper.pdf)
-<a href='https://scholar.google.com/citations?view_op=view_citation&hl=en&user=JJEEfUIAAAAJ&citation_for_view=JJEEfUIAAAAJ:9yKSN-GCB0IC'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"><span class='show_paper_citations' data='JJEEfUIAAAAJ:9yKSN-GCB0IC'></span></a>
-
+[High-Order Information Matters: Learning Relation and Topology for Occluded Person Re-Identification](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_High-Order_Information_Matters_Learning_Relation_and_Topology_for_Occluded_Person_CVPR_2020_paper.pdf) 
+<p><strong><span class="show_paper_citations" data="JJEEfUIAAAAJ:9yKSN-GCB0IC"></span></strong></p>
 
 - Guan'an Wang$\ast$, **Shuo Yang**$\ast$, Huanyu Liu, Zhicheng Wang, Yang Yang, Shuliang Wang, Gang Yu, Jian Sun
 
@@ -118,8 +118,8 @@ My Google Scholar Citations <a href='https://scholar.google.com/citations?user=J
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2028</div><img src='images/TIP18.png' alt="sym" width="100%" height="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Joint Hand Detection and Rotation Estimation Using CNN](https://ieeexplore.ieee.org/document/8128503)
-<a href='https://scholar.google.com/citations?view_op=view_citation&hl=en&user=JJEEfUIAAAAJ&citation_for_view=JJEEfUIAAAAJ:u-x6o8ySG0sC'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"><span class='show_paper_citations' data='JJEEfUIAAAAJ:u-x6o8ySG0sC'></span></a>
+[Joint Hand Detection and Rotation Estimation Using CNN](https://ieeexplore.ieee.org/document/8128503) 
+<p><span class='show_paper_citations' data='JJEEfUIAAAAJ:u-x6o8ySG0sC'></span></p>
 
 
 - Xiaoming Deng, Yinda Zhang, **Shuo Yang**, Ping Tan, Liang Chang, Ye Yuan, Hongan Wang
