@@ -147,9 +147,7 @@ My publications can be found at Google Scholar <a href='https://scholar.google.c
 </div>
 </div>
 
-
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-
+<!-- <li><code class="language-plaintext highlighter-rouge">ICML 2023</code> <a href="https://text-to-audio.github.io/paper.pdf">Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models</a>, Rongjie Huang, Jiawei Huang, Dongchao Yang, <strong>Yi Ren</strong>, Luping liu, Mingze Li, Zhenhui Ye, Jinglin Liu, Xiang Yin, Zhou Zhao</li> -->
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  
