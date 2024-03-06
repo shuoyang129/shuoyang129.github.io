@@ -25,7 +25,7 @@ My publications can be found at Google Scholar <a href='https://scholar.google.c
 <!-- I have published about 10 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
-- *2024.02*: &nbsp;🎉🎉 <a href="xxx"><span style="font-style: italic;">A language-driven action localization</span></a> paper is accepted by IEEE <span style="color: #A93226;">T-MM</span> 2024 (<span style="color: #A93226;">JCR1, IF=7.3</span>)! 
+- *2024.02*: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/10449438"><span style="font-style: italic;">A language-driven action localization</span></a> paper is accepted by IEEE <span style="color: #A93226;">T-MM</span> 2024 (<span style="color: #A93226;">JCR1, IF=7.3</span>)! 
 - *2023.12*: &nbsp;🎉🎉 <a href="xxx"><span style="font-style: italic;">A video visual relationship detection</span></a> paper is accepted by <span style="color: #A93226;">AAAI</span> 2024 (<span style="color: #A93226;">CCF-A</span>)!
 - *2023.07*: &nbsp;🎉🎉 <a href="https://dl.acm.org/doi/10.1145/3581783.3612512"><span style="font-style: italic;">A frame-supervised language-driven action localization</span></a> paper is accepted by <span style="color: #A93226;">ACM MM</span> 2023 (<span style="color: #A93226;">CCF-A</span>)!
 - *2022.04*: &nbsp;🎉🎉 <a href="http://arxiv.org/abs/2205.05854"><span style="font-style: italic;">A language-driven action localization</span></a> paper is accepted by <span style="color: #A93226;">IJCAI</span> 2022 (<span style="color: #A93226;">CCF-A</span>)!
@@ -166,6 +166,6 @@ My publications can be found at Google Scholar <a href='https://scholar.google.c
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
  -->
-# 💻 Internships
+# 💻 Experiences
 - *2019.05 - 2020.02*, Research intern at [Megvii-inc](https://en.megvii.com/), Beijing, China.
-- *2017.07 - 2018.08*, Algorithm engineers at [JD](https://jr.jddinnovation.com/), Beijing, China.
+- *2017.07 - 2018.08*, Algorithm engineer at [JD Finance](https://jr.jddinnovation.com/), Beijing, China.
