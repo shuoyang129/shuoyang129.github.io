@@ -26,11 +26,11 @@ All of my publications can be found at Google Scholar <a href='https://scholar.g
 
 # 🔥 News
 - *2024.02*: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/10449438"><span style="font-style: italic;">A language-driven action localization</span></a> paper is accepted by IEEE <span style="color: #A93226;">T-MM</span> 2024 (<span style="color: #A93226;">JCR1, IF=7.3</span>)! 
-- *2023.12*: &nbsp;🎉🎉 <a href="xxx"><span style="font-style: italic;">A video visual relationship detection</span></a> paper is accepted by <span style="color: #A93226;">AAAI</span> 2024 (<span style="color: #A93226;">CCF-A</span>)!
-- *2023.07*: &nbsp;🎉🎉 <a href="https://dl.acm.org/doi/10.1145/3581783.3612512"><span style="font-style: italic;">A frame-supervised language-driven action localization</span></a> paper is accepted by <span style="color: #A93226;">ACM MM</span> 2023 (<span style="color: #A93226;">CCF-A</span>)!
-- *2022.04*: &nbsp;🎉🎉 <a href="http://arxiv.org/abs/2205.05854"><span style="font-style: italic;">A language-driven action localization</span></a> paper is accepted by <span style="color: #A93226;">IJCAI</span> 2022 (<span style="color: #A93226;">CCF-A</span>)!
+- *2023.12*: &nbsp;🎉🎉 <a href="xxx"><span style="font-style: italic;">A video visual relationship detection</span></a> paper is accepted by <span style="color: #A93226;">AAAI</span> 2024 (<span style="color: #A93226;">CCF-A</span> conference)!
+- *2023.07*: &nbsp;🎉🎉 <a href="https://dl.acm.org/doi/10.1145/3581783.3612512"><span style="font-style: italic;">A frame-supervised language-driven action localization</span></a> paper is accepted by <span style="color: #A93226;">ACM MM</span> 2023 (<span style="color: #A93226;">CCF-A</span> conference)!
+- *2022.04*: &nbsp;🎉🎉 <a href="http://arxiv.org/abs/2205.05854"><span style="font-style: italic;">A language-driven action localization</span></a> paper is accepted by <span style="color: #A93226;">IJCAI</span> 2022 (<span style="color: #A93226;">CCF-A</span> conference)!
 - *2021.06*: &nbsp;😊😊 I attend a new research group under supervised by Prof.<a href="https://wuxinxiao.github.io/">Xinxiao Wu.</a>
-- *2020.03*: &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2003.08177"><span style="font-style: italic;">A person re-identification</span></a> paper is accepted by <span style="color: #A93226;">CVPR</span> 2020 (<span style="color: #A93226;">CCF-A</span>)!
+- *2020.03*: &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2003.08177"><span style="font-style: italic;">A person re-identification</span></a> paper is accepted by <span style="color: #A93226;">CVPR</span> 2020 (<span style="color: #A93226;">CCF-A</span> conference)!
 
 # 📝 Publications 
 
