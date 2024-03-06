@@ -18,8 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am now a PhD student of Beijing Institute of Technology (BIT), and will graduate at 2024.06.
+
 My primary research focuses on the area of vision and language. Presently, I delve into the application of large language models (LLMs) across various tasks involving both vision and language, e.g., language-driven video understanding, open-vocabulary multi-label image recognition. Prior to this, my work revolved around hand detection, hand pose estimation, face recognition, and person re-identification. 
-All of my publications can be found at Google Scholar <a href='https://scholar.google.com/citations?user=JJEEfUIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"/></a>
+
+<!-- All of my publications can be found at Google Scholar <a href='https://scholar.google.com/citations?user=JJEEfUIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"/></a> -->
 <!-- Additionally, I maintain a keen interest in 3D vision encompassing reconstruction and understanding of 3D scenes. -->
 
 <!-- I have published about 10 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -32,14 +34,14 @@ All of my publications can be found at Google Scholar <a href='https://scholar.g
 - *2021.06*: &nbsp;😊😊 I attend a new research group under supervised by Prof.<a href="https://wuxinxiao.github.io/">Xinxiao Wu.</a>
 - *2020.03*: &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2003.08177"><span style="font-style: italic;">A person re-identification</span></a> paper is accepted by <span style="color: #A93226;">CVPR</span> 2020 (<span style="color: #A93226;">CCF-A</span> conference)!
 
-# 📝 Publications 
+# 📝 Publications
+<a href='https://scholar.google.com/citations?user=JJEEfUIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"/></a> &emsp; ($\ast$ means equal contribution)
 
- ($\ast$ means equal contribution)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM 2024</div><img src='images/TMM24.png' alt="sym" width="100%" height="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dynamic Pathway for Query-Aware Feature Learning in Language-Driven Action Localization](https://ieeexplore.ieee.org/document/10449438)
-<p><strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:eQOLeE2rZwMC'></span></strong></p>
+<strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:eQOLeE2rZwMC'></span></strong>
 
 - **Shuo Yang**, Xinxiao Wu, Zirui Shang, Jiebo Luo
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
@@ -70,7 +72,7 @@ All of my publications can be found at Google Scholar <a href='https://scholar.g
 <div class='paper-box-text' markdown="1">
 
 [Probability Distribution Based Frame-supervised Language-driven Action Localization](https://dl.acm.org/doi/10.1145/3581783.3612512)
-<p><strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:YsMSGLbcyi4C'></span></strong></p>
+<strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:YsMSGLbcyi4C'></span></strong>
 
 - **Shuo Yang**, Zirui Shang, Xinxiao Wu
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
@@ -87,7 +89,7 @@ All of my publications can be found at Google Scholar <a href='https://scholar.g
 <div class='paper-box-text' markdown="1">
 
 [Entity-aware and Motion-aware Transformers for Language-driven Action Localization](https://www.ijcai.org/proceedings/2022/0216.pdf) 
-<p><strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:IjCSPb-OGe4C'></span></strong></p>
+<strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:IjCSPb-OGe4C'></span></strong>
 
 - **Shuo Yang**, Xinxiao Wu
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
@@ -104,7 +106,7 @@ All of my publications can be found at Google Scholar <a href='https://scholar.g
 <div class='paper-box-text' markdown="1">
 
 [High-Order Information Matters: Learning Relation and Topology for Occluded Person Re-Identification](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_High-Order_Information_Matters_Learning_Relation_and_Topology_for_Occluded_Person_CVPR_2020_paper.pdf) 
-<p><strong><span class="show_paper_citations" data="JJEEfUIAAAAJ:9yKSN-GCB0IC"></span></strong></p>
+<strong><span class="show_paper_citations" data="JJEEfUIAAAAJ:9yKSN-GCB0IC"></span></strong>
 
 - Guan'an Wang$\ast$, **Shuo Yang**$\ast$, Huanyu Liu, Zhicheng Wang, Yang Yang, Shuliang Wang, Gang Yu, Jian Sun
 
@@ -121,7 +123,7 @@ All of my publications can be found at Google Scholar <a href='https://scholar.g
 <div class='paper-box-text' markdown="1">
 
 [Joint Hand Detection and Rotation Estimation Using CNN](https://ieeexplore.ieee.org/document/8128503) 
-<p><span class='show_paper_citations' data='JJEEfUIAAAAJ:u-x6o8ySG0sC'></span></p>
+<strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:u-x6o8ySG0sC'></span></strong>
 
 - Xiaoming Deng, Yinda Zhang, **Shuo Yang**, Ping Tan, Liang Chang, Ye Yuan, Hongan Wang
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
@@ -137,7 +139,7 @@ All of my publications can be found at Google Scholar <a href='https://scholar.g
 <div class='paper-box-text' markdown="1">
 
 [Hand3D: Hand Pose Estimation using 3D Neural Network](https://arxiv.org/pdf/1704.02224)
-<p><strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:d1gkVwhDpl0C'></span></strong></p>
+<strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:d1gkVwhDpl0C'></span></strong>
 
 - Xiaoming Deng$\ast$, **Shuo Yang**$\ast$, Yinda Zhang$\ast$, Ping Tan, Liang Chang, Hongan Wang
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
