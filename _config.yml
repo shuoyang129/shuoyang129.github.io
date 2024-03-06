@@ -8,11 +8,11 @@
 # Site Settings
 title                    : "Shuo Yang (杨硕)"
 description              : ""
-repository               : "shuoyang129/shuoyang.github.io"
+repository               : "shuoyang129/shuoyang129.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  "G-QR06N5L4FF" # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shuo Yang (杨硕)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "PhD student of computer science, Beijing Institute of Technology."
+  bio              : "PhD student of computer science, Beijing Institute of Technology (BIT)."
   location         : "Beijing, China"
   employer         :
   pubmed           : 

@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
+I am now a PhD student of Beijing Institute of Technology (BIT), who will graduate at 2024.06.
 My primary research focuses on the area of vision and language. Presently, I delve into the application of large language models (LLMs) across various tasks involving both vision and language, e.g., language-driven video understanding, open-vocabulary multi-label image recognition. Prior to this, my work revolved around hand detection, hand pose estimation, face recognition, and person re-identification. 
-My publications can be found at Google Scholar <a href='https://scholar.google.com/citations?user=JJEEfUIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"/></a>
+All of my publications can be found at Google Scholar <a href='https://scholar.google.com/citations?user=JJEEfUIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"/></a>
 <!-- Additionally, I maintain a keen interest in 3D vision encompassing reconstruction and understanding of 3D scenes. -->
 
 <!-- I have published about 10 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -39,6 +39,7 @@ My publications can be found at Google Scholar <a href='https://scholar.google.c
 <div class='paper-box-text' markdown="1">
 
 [Dynamic Pathway for Query-Aware Feature Learning in Language-Driven Action Localization](https://ieeexplore.ieee.org/document/10449438)
+<p><strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:eQOLeE2rZwMC'></span></strong></p>
 
 - **Shuo Yang**, Xinxiao Wu, Zirui Shang, Jiebo Luo
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
@@ -69,6 +70,7 @@ My publications can be found at Google Scholar <a href='https://scholar.google.c
 <div class='paper-box-text' markdown="1">
 
 [Probability Distribution Based Frame-supervised Language-driven Action Localization](https://dl.acm.org/doi/10.1145/3581783.3612512)
+<p><strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:YsMSGLbcyi4C'></span></strong></p>
 
 - **Shuo Yang**, Zirui Shang, Xinxiao Wu
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
@@ -121,7 +123,6 @@ My publications can be found at Google Scholar <a href='https://scholar.google.c
 [Joint Hand Detection and Rotation Estimation Using CNN](https://ieeexplore.ieee.org/document/8128503) 
 <p><span class='show_paper_citations' data='JJEEfUIAAAAJ:u-x6o8ySG0sC'></span></p>
 
-
 - Xiaoming Deng, Yinda Zhang, **Shuo Yang**, Ping Tan, Liang Chang, Ye Yuan, Hongan Wang
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - *IEEE Transactions on Image Processing (TIP), 27(4):1888-1900, 2018.*
@@ -136,6 +137,7 @@ My publications can be found at Google Scholar <a href='https://scholar.google.c
 <div class='paper-box-text' markdown="1">
 
 [Hand3D: Hand Pose Estimation using 3D Neural Network](https://arxiv.org/pdf/1704.02224)
+<p><strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:d1gkVwhDpl0C'></span></strong></p>
 
 - Xiaoming Deng$\ast$, **Shuo Yang**$\ast$, Yinda Zhang$\ast$, Ping Tan, Liang Chang, Hongan Wang
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
