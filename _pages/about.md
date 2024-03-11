@@ -143,7 +143,9 @@ You can contact me via e-mail: yangshuo129@gmail.com
 </div>
 
 <li><code class="language-plaintext highlighter-rouge">Arxiv 2024</code> <a href="https://arxiv.org/pdf/2403.01209.pdf">Data-free Multi-label Image Recognition via LLM-powered Prompt Tuning</a>, <strong>Shuo Yang</strong>, Zirui Shang, Yongqi Wang, Derong Deng, Hongwei Chen, Qiyuan Cheng, Xinxiao Wu <strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:WF5omc3nYNoC'></span></strong> </li>
+
 <li><code class="language-plaintext highlighter-rouge">Arxiv 2017</code> <a href="https://arxiv.org/pdf/1704.02224.pdf">Hand3D: Hand Pose Estimation using 3D Neural Network</a>, Xiaoming Deng$\ast$, <strong>Shuo Yang</strong>$\ast$, Yinda Zhang$\ast$, Ping Tan, Liang Chang, Hongan Wang <strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:d1gkVwhDpl0C'></span></strong> </li>
+
 <li><code class="language-plaintext highlighter-rouge">Acta Automatica Sinica 2016</code> <a href="https://faculty.csu.edu.cn/_resources/group1/M00/00/67/wKiylWIpceKAYBdpAA4EeS6lmws466.pdf">Convolutional neural networks in image understanding</a>, Liang Chang, Xiaoming Deng, Mingquan Zhou, Zhongke Wu, Ye Yuan, <strong>Shuo Yang</strong>, Hongan Wang <strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:qjMakFHDy7sC'></span></strong> </li> 
 
 <!-- # 🎖 Honors and Awards
