@@ -21,6 +21,7 @@ I am now a PhD student of Beijing Institute of Technology (BIT), and will gradua
 
 My primary research focuses on the area of vision and language. Presently, I delve into the application of large language models (LLMs) across various tasks involving both vision and language, e.g., language-driven video understanding, open-vocabulary multi-label image recognition. Prior to this, my work revolved around hand detection, hand pose estimation, face recognition, and person re-identification. 
 
+You can contact me via e-mail: yangshuo129@gmail.com
 <!-- All of my publications can be found at Google Scholar <a href='https://scholar.google.com/citations?user=JJEEfUIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"/></a> -->
 <!-- Additionally, I maintain a keen interest in 3D vision encompassing reconstruction and understanding of 3D scenes. -->
 
@@ -47,9 +48,10 @@ My primary research focuses on the area of vision and language. Presently, I del
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - *IEEE Transactions on Multimedia (TMM), 2024.*
   
-  <a href="https://ieeexplore.ieee.org/document/10449438" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">paper</a>
-  <a  href="images/TMM24.bib" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">BibTex</a>
-  <!-- <a  href="https://github.com/shuoyang129/EAMAT/" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">Code</a> -->
+  [[Paper]](https://ieeexplore.ieee.org/document/10449438) [[BibTex]](images/TMM24.bib)
+  <!-- <a href="https://ieeexplore.ieee.org/document/10449438" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">paper</a>
+  <a  href="images/TMM24.bib" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">BibTex</a> -->
+  <!-- <a  href="" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">Code</a> -->
 </div>
 </div>
 
@@ -62,9 +64,10 @@ My primary research focuses on the area of vision and language. Presently, I del
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - *The 38th Annual AAAI Conference on Artificial Intelligence (AAAI), 2024.*
   
-  <a href="" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">paper</a>
+  [[Paper]]() [[BibTex]]() [[Code]](https://github.com/wangyongqi558/MMP_OV_VidVRD)
+  <!-- <a href="" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">paper</a>
   <a  href="" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">BibTex</a>
-  <a  href="https://github.com/wangyongqi558/MMP_OV_VidVRD" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">Code</a>
+  <a  href="https://github.com/wangyongqi558/MMP_OV_VidVRD" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">Code</a> -->
 </div>
 </div>
 
@@ -78,9 +81,10 @@ My primary research focuses on the area of vision and language. Presently, I del
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - *The 31st ACM International Conference on Multimedia (ACM MM), 2023.*
   
-  <a href="https://dl.acm.org/doi/10.1145/3581783.3612512" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">paper</a>
+  [[Paper]](https://dl.acm.org/doi/10.1145/3581783.3612512) [[BibTex]](images/mm23.bib) [[Code]](https://github.com/shuoyang129/Distrbution-based-Frame-Supervised-LDAL)
+  <!-- <a href="https://dl.acm.org/doi/10.1145/3581783.3612512" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">paper</a>
   <a  href="images/mm23.bib" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">BibTex</a>
-  <a  href="https://github.com/shuoyang129/Distrbution-based-Frame-Supervised-LDAL" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">Code</a>
+  <a  href="https://github.com/shuoyang129/Distrbution-based-Frame-Supervised-LDAL" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">Code</a> -->
 </div>
 </div>
 
@@ -95,9 +99,10 @@ My primary research focuses on the area of vision and language. Presently, I del
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - *The 31st International Joint Conference on Artificial Intelligence (IJCAI), 2022.*
   
-  <a href="https://www.ijcai.org/proceedings/2022/0216.pdf" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">paper</a>
+  [[Paper]](https://www.ijcai.org/proceedings/2022/0216.pdf) [[BibTex]](images/IJCAI22.bib) [[Code]](https://github.com/shuoyang129/EAMAT/)
+  <!-- <a href="https://www.ijcai.org/proceedings/2022/0216.pdf" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">paper</a>
   <a  href="images/IJCAI22.bib" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">BibTex</a>
-  <a  href="https://github.com/shuoyang129/EAMAT/" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">Code</a>
+  <a  href="https://github.com/shuoyang129/EAMAT/" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">Code</a> -->
 </div>
 </div>
 
@@ -113,9 +118,10 @@ My primary research focuses on the area of vision and language. Presently, I del
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - *In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.*
   
-  <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_High-Order_Information_Matters_Learning_Relation_and_Topology_for_Occluded_Person_CVPR_2020_paper.pdf" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">paper</a>
+  [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_High-Order_Information_Matters_Learning_Relation_and_Topology_for_Occluded_Person_CVPR_2020_paper.pdf) [[BibTex]](images/CVPR20.bib) [[Code]](https://github.com/wangguanan/HOReID/)
+  <!-- <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_High-Order_Information_Matters_Learning_Relation_and_Topology_for_Occluded_Person_CVPR_2020_paper.pdf" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">paper</a>
   <a  href="images/CVPR20.bib" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">BibTex</a>
-  <a  href="https://github.com/wangguanan/HOReID/" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">Code</a>
+  <a  href="https://github.com/wangguanan/HOReID/" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">Code</a> -->
 </div>
 </div>
 
@@ -129,29 +135,17 @@ My primary research focuses on the area of vision and language. Presently, I del
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - *IEEE Transactions on Image Processing (TIP), 27(4):1888-1900, 2018.*
   
-  <a href="http://www.idengxm.com/handdetection/TIP2018_handdeteciton_cameraready.pdf" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">paper</a>
-  <!-- <a  href="images/CVPR20.bib" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">BibTex</a> -->
-  <a  href="http://www.idengxm.com/handdetection/index.html" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">Project Page</a>
+  [[Paper]](http://www.idengxm.com/handdetection/TIP2018_handdeteciton_cameraready.pdf) [[Project Page]](http://www.idengxm.com/handdetection/index.html)
+  <!-- <a href="http://www.idengxm.com/handdetection/TIP2018_handdeteciton_cameraready.pdf" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">paper</a>
+  <a  href="images/CVPR20.bib" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">BibTex</a>
+  <a  href="http://www.idengxm.com/handdetection/index.html" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">Project Page</a> -->
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/hand3d.png' alt="sym" width="100%" height="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<li><code class="language-plaintext highlighter-rouge">Arxiv 2024</code> <a href="https://arxiv.org/pdf/2403.01209.pdf">Data-free Multi-label Image Recognition via LLM-powered Prompt Tuning</a>, <strong>Shuo Yang</strong>, Zirui Shang, Yongqi Wang, Derong Deng, Hongwei Chen, Qiyuan Cheng, Xinxiao Wu <strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:WF5omc3nYNoC'></span></strong> </li>
+<li><code class="language-plaintext highlighter-rouge">Arxiv 2017</code> <a href="https://arxiv.org/pdf/1704.02224.pdf">Hand3D: Hand Pose Estimation using 3D Neural Network</a>, Xiaoming Deng$\ast$, <strong>Shuo Yang</strong>$\ast$, Yinda Zhang$\ast$, Ping Tan, Liang Chang, Hongan Wang <strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:d1gkVwhDpl0C'></span></strong> </li>
+<li><code class="language-plaintext highlighter-rouge">Acta Automatica Sinica 2016</code> <a href="https://faculty.csu.edu.cn/_resources/group1/M00/00/67/wKiylWIpceKAYBdpAA4EeS6lmws466.pdf">Convolutional neural networks in image understanding</a>, Liang Chang, Xiaoming Deng, Mingquan Zhou, Zhongke Wu, Ye Yuan, <strong>Shuo Yang</strong>, Hongan Wang <strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:qjMakFHDy7sC'></span></strong> </li> 
 
-[Hand3D: Hand Pose Estimation using 3D Neural Network](https://arxiv.org/pdf/1704.02224)
-<strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:d1gkVwhDpl0C'></span></strong>
-
-- Xiaoming Deng$\ast$, **Shuo Yang**$\ast$, Yinda Zhang$\ast$, Ping Tan, Liang Chang, Hongan Wang
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- *arXiv:1704.02224 [cs.CV] (7 Apr 2017).*
-  
-  <a href="https://arxiv.org/pdf/1704.02224" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">paper</a>
-  <!-- <a  href="images/CVPR20.bib" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">BibTex</a> -->
-  <a  href="http://www.idengxm.com/hand3d/index.html" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">Project Page</a>
-</div>
-</div>
-
-<!-- <li><code class="language-plaintext highlighter-rouge">ICML 2023</code> <a href="https://text-to-audio.github.io/paper.pdf">Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models</a>, Rongjie Huang, Jiawei Huang, Dongchao Yang, <strong>Yi Ren</strong>, Luping liu, Mingze Li, Zhenhui Ye, Jinglin Liu, Xiang Yin, Zhou Zhao</li> -->
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  
