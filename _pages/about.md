@@ -48,7 +48,7 @@ You can contact me via e-mail: yangshuo129@gmail.com
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - *IEEE Transactions on Multimedia (TMM), 2024.*
   
-  [[Paper]](https://ieeexplore.ieee.org/document/10449438) [[BibTex]](images/TMM24.bib)
+  [[Paper]](images/TMM24.pdf) [[BibTex]](images/TMM24.bib)
   <!-- <a href="https://ieeexplore.ieee.org/document/10449438" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">paper</a>
   <a  href="images/TMM24.bib" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">BibTex</a> -->
   <!-- <a  href="" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">Code</a> -->
@@ -64,14 +64,14 @@ You can contact me via e-mail: yangshuo129@gmail.com
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - *The 38th Annual AAAI Conference on Artificial Intelligence (AAAI), 2024.*
   
-  [[Paper]]() [[BibTex]]() [[Code]](https://github.com/wangyongqi558/MMP_OV_VidVRD)
+  [[Paper]](images/AAAI24.pdf) [[BibTex]]() [[Code]](https://github.com/wangyongqi558/MMP_OV_VidVRD)
   <!-- <a href="" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">paper</a>
   <a  href="" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">BibTex</a>
   <a  href="https://github.com/wangyongqi558/MMP_OV_VidVRD" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">Code</a> -->
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/mm23.jpg' alt="sym" width="100%" height="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/MM23.jpg' alt="sym" width="100%" height="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Probability Distribution Based Frame-supervised Language-driven Action Localization](https://dl.acm.org/doi/10.1145/3581783.3612512)
@@ -81,7 +81,7 @@ You can contact me via e-mail: yangshuo129@gmail.com
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - *The 31st ACM International Conference on Multimedia (ACM MM), 2023.*
   
-  [[Paper]](https://dl.acm.org/doi/10.1145/3581783.3612512) [[BibTex]](images/mm23.bib) [[Code]](https://github.com/shuoyang129/Distrbution-based-Frame-Supervised-LDAL)
+  [[Paper]](images/MM23.pdf) [[BibTex]](images/MM23.bib) [[Code]](https://github.com/shuoyang129/Distrbution-based-Frame-Supervised-LDAL)
   <!-- <a href="https://dl.acm.org/doi/10.1145/3581783.3612512" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">paper</a>
   <a  href="images/mm23.bib" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">BibTex</a>
   <a  href="https://github.com/shuoyang129/Distrbution-based-Frame-Supervised-LDAL" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">Code</a> -->
@@ -135,7 +135,7 @@ You can contact me via e-mail: yangshuo129@gmail.com
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - *IEEE Transactions on Image Processing (TIP), 27(4):1888-1900, 2018.* 
 
-  [[Paper]](http://www.idengxm.com/handdetection/TIP2018_handdeteciton_cameraready.pdf) [[Project Page]](http://www.idengxm.com/handdetection/index.html)
+  [[Paper]](images/TIP18.pdf) [[Project Page]](http://www.idengxm.com/handdetection/index.html)
   <!-- <a href="http://www.idengxm.com/handdetection/TIP2018_handdeteciton_cameraready.pdf" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">paper</a>
   <a  href="images/CVPR20.bib" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">BibTex</a>
   <a  href="http://www.idengxm.com/handdetection/index.html" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">Project Page</a> -->
@@ -143,9 +143,10 @@ You can contact me via e-mail: yangshuo129@gmail.com
 </div>
 </div>
 
+<li><code class="language-plaintext highlighter-rouge">Arxiv 2024</code><strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:WF5omc3nYNoC'></span></strong>, <a href="https://arxiv.org/pdf/2403.01209.pdf">Data-free Multi-label Image Recognition via LLM-powered Prompt Tuning</a>, <strong>Shuo Yang</strong>, Zirui Shang, Yongqi Wang, Derong Deng, Hongwei Chen, Qiyuan Cheng, Xinxiao Wu </li>
 <li><code class="language-plaintext highlighter-rouge">Arxiv 2017</code><strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:d1gkVwhDpl0C'></span></strong>,  <a href="https://arxiv.org/pdf/1704.02224.pdf">Hand3D: Hand Pose Estimation using 3D Neural Network</a>, Xiaoming Deng$\ast$, <strong>Shuo Yang</strong>$\ast$, Yinda Zhang$\ast$, Ping Tan, Liang Chang, Hongan Wang </li>
 <li><code class="language-plaintext highlighter-rouge">Acta Automatica Sinica 2016</code><strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:qjMakFHDy7sC'></span></strong>, <a href="https://faculty.csu.edu.cn/_resources/group1/M00/00/67/wKiylWIpceKAYBdpAA4EeS6lmws466.pdf">Convolutional neural networks in image understanding</a>, Liang Chang, Xiaoming Deng, Mingquan Zhou, Zhongke Wu, Ye Yuan, <strong>Shuo Yang</strong>, Hongan Wang  </li> 
-<li><code class="language-plaintext highlighter-rouge">Arxiv 2024</code><strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:WF5omc3nYNoC'></span></strong>, <a href="https://arxiv.org/pdf/2403.01209.pdf">Data-free Multi-label Image Recognition via LLM-powered Prompt Tuning</a>, <strong>Shuo Yang</strong>, Zirui Shang, Yongqi Wang, Derong Deng, Hongwei Chen, Qiyuan Cheng, Xinxiao Wu </li>
+
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  
