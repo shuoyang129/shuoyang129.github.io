@@ -89,7 +89,7 @@ You can contact me via e-mail: yangshuo129@gmail.com
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='images/ijcai22.jpg' alt="sym" width="100%" height="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='images/IJCAI22.jpg' alt="sym" width="100%" height="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Entity-aware and Motion-aware Transformers for Language-driven Action Localization](https://www.ijcai.org/proceedings/2022/0216.pdf) 
