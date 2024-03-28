@@ -29,7 +29,7 @@ You can contact me via e-mail: yangshuo129@gmail.com
 
 # 🔥 News
 - *2024.02*: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/10449438"><span style="font-style: italic;">A language-driven action localization</span></a> paper is accepted by IEEE <span style="color: #A93226;">T-MM</span> 2024 (<span style="color: #A93226;">JCR1, IF=7.3</span>)! 
-- *2023.12*: &nbsp;🎉🎉 <a href="xxx"><span style="font-style: italic;">A video visual relationship detection</span></a> paper is accepted by <span style="color: #A93226;">AAAI</span> 2024 (<span style="color: #A93226;">CCF-A</span> conference)!
+- *2023.12*: &nbsp;🎉🎉 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/28472"><span style="font-style: italic;">A video visual relationship detection</span></a> paper is accepted by <span style="color: #A93226;">AAAI</span> 2024 (<span style="color: #A93226;">CCF-A</span> conference)!
 - *2023.07*: &nbsp;🎉🎉 <a href="https://dl.acm.org/doi/10.1145/3581783.3612512"><span style="font-style: italic;">A frame-supervised language-driven action localization</span></a> paper is accepted by <span style="color: #A93226;">ACM MM</span> 2023 (<span style="color: #A93226;">CCF-A</span> conference)!
 - *2022.04*: &nbsp;🎉🎉 <a href="http://arxiv.org/abs/2205.05854"><span style="font-style: italic;">A language-driven action localization</span></a> paper is accepted by <span style="color: #A93226;">IJCAI</span> 2022 (<span style="color: #A93226;">CCF-A</span> conference)!
 - *2021.06*: &nbsp;😊😊 I attend a new research group under supervised by Prof.<a href="https://wuxinxiao.github.io/">Xinxiao Wu.</a>
@@ -58,13 +58,14 @@ You can contact me via e-mail: yangshuo129@gmail.com
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/AAAI24.png' alt="sym" width="100%" height="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Multi-Modal Prompting for Open-Vocabulary Video Visual Relationship Detection]()
+[Multi-Modal Prompting for Open-Vocabulary Video Visual Relationship Detection](https://ojs.aaai.org/index.php/AAAI/article/view/28472)
+<strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:_FxGoFyzp5QC'></span></strong>
 
 - **Shuo Yang**$\ast$, Yongqi Wang$\ast$, Xiaofeng Ji, Xinxiao Wu
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - *The 38th Annual AAAI Conference on Artificial Intelligence (AAAI), 2024.*
   
-  [[Paper]](images/AAAI24.pdf) [[BibTex]]() [[Code]](https://github.com/wangyongqi558/MMP_OV_VidVRD)
+  [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28472/28919) [[BibTex]](images/AAAI24.bib) [[Code]](https://github.com/wangyongqi558/MMP_OV_VidVRD)
   <!-- <a href="" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">paper</a>
   <a  href="" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">BibTex</a>
   <a  href="https://github.com/wangyongqi558/MMP_OV_VidVRD" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">Code</a> -->
@@ -93,7 +94,7 @@ You can contact me via e-mail: yangshuo129@gmail.com
 <div class='paper-box-text' markdown="1">
 
 [Entity-aware and Motion-aware Transformers for Language-driven Action Localization](https://www.ijcai.org/proceedings/2022/0216.pdf) 
-<strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:IjCSPb-OGe4C'></span></strong>
+<strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:ufrVoPGSRksC'></span></strong>
 
 - **Shuo Yang**, Xinxiao Wu
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
