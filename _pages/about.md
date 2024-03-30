@@ -72,7 +72,7 @@ You can contact me via e-mail: yangshuo129@gmail.com
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/MM23.jpg' alt="sym" width="100%" height="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/MM23.png' alt="sym" width="100%" height="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Probability Distribution Based Frame-supervised Language-driven Action Localization](https://dl.acm.org/doi/10.1145/3581783.3612512)
@@ -90,7 +90,7 @@ You can contact me via e-mail: yangshuo129@gmail.com
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='images/IJCAI22.jpg' alt="sym" width="100%" height="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='images/IJCAI22.png' alt="sym" width="100%" height="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Entity-aware and Motion-aware Transformers for Language-driven Action Localization](https://www.ijcai.org/proceedings/2022/0216.pdf) 
@@ -108,7 +108,7 @@ You can contact me via e-mail: yangshuo129@gmail.com
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2020</div><img src='images/CVPR20.jpg' alt="sym" width="100%" height="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2020</div><img src='images/CVPR20.png' alt="sym" width="100%" height="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [High-Order Information Matters: Learning Relation and Topology for Occluded Person Re-Identification](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_High-Order_Information_Matters_Learning_Relation_and_Topology_for_Occluded_Person_CVPR_2020_paper.pdf) 
