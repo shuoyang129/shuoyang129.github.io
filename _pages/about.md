@@ -26,6 +26,8 @@ You can contact me via e-mail: yangshuo@smbu.edu.cn; yangshuo129@gmail.com.
 <!-- I have published about 10 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
+- *2024.10* &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/abstract/document/10740465"><span style="font-style: italic;">A image-text matching</span></a> paper is accepted by <span style="color: #A93226;">IEEE Signal Processing Letter</span> 2024 (<span style="color: #A93226;">JCR3, IF=3.2</span>)!
+- *2024.10* &nbsp;🎉🎉 <a href="https://link.springer.com/chapter/10.1007/978-981-97-8620-6_38"><span style="font-style: italic;">A language-driven action localization</span></a> paper is accepted by <span style="color: #A93226;">PRCV</span> 2024 (CCF-C) conference!
 - *2024.06* &nbsp;😊😊 I graduated from Beijing Institute of Technology (北京理工大学) and got a position as an associate professor at Shenzhen MSU-BIT University (深圳北理莫斯科大学)!
 - *2024.02*: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/10449438"><span style="font-style: italic;">A language-driven action localization</span></a> paper is accepted by IEEE <span style="color: #A93226;">T-MM</span> 2024 (<span style="color: #A93226;">JCR1, IF=7.3</span>)! 
 - *2023.12*: &nbsp;🎉🎉 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/28472"><span style="font-style: italic;">A video visual relationship detection</span></a> paper is accepted by <span style="color: #A93226;">AAAI</span> 2024 (<span style="color: #A93226;">CCF-A</span> conference)!
@@ -35,7 +37,7 @@ You can contact me via e-mail: yangshuo@smbu.edu.cn; yangshuo129@gmail.com.
 - *2020.03*: &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2003.08177"><span style="font-style: italic;">A person re-identification</span></a> paper is accepted by <span style="color: #A93226;">CVPR</span> 2020 (<span style="color: #A93226;">CCF-A</span> conference)!
 
 # 📝 Publications
-<a href='https://scholar.google.com/citations?user=JJEEfUIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"/></a> &emsp; ($\ast$ means equal contribution)
+<a href='https://scholar.google.com/citations?user=JJEEfUIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"/></a> &emsp; ($\ast$ means equal contribution, $\dagger$ means corresponding author)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM 2024</div><img src='images/TMM24.png' alt="sym" width="100%" height="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -142,7 +144,9 @@ You can contact me via e-mail: yangshuo@smbu.edu.cn; yangshuo129@gmail.com.
   
 </div>
 </div>
-
+<li><code class="language-plaintext highlighter-rouge">SPL 2024</code><strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:Se3iqnhoufwC'></span></strong>, <a href="https://ieeexplore.ieee.org/abstract/document/10740465">Source-free Image-text Matching via Uncertainty-aware Learning</a>, Mengxiao Tian, <strong>Shuo Yang</strong>$\dagger$, Xinxiao Wu, Yunde Jia </li>
+<li><code class="language-plaintext highlighter-rouge">PRCV 2024</code><strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:roLk4NBRz8UC'></span></strong>, <a href="https://link.springer.com/chapter/10.1007/978-981-97-8620-6_38">Efficient Language-Driven Action Localization by Feature Aggregation and Prediction Adjustment</a>, Zirui Shang, <strong>Shuo Yang</strong>$\dagger$, Xinxiao Wu </li>
+<li><code class="language-plaintext highlighter-rouge">Arxiv 2024</code><strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:LkGwnXOMwfcC'></span></strong>, <a href="https://arxiv.org/abs/2409.12499">End-to-end Open-vocabulary Video Visual Relationship Detection using Multi-modal Prompting</a>, Yongqi Wang, <strong>Shuo Yang</strong>, Xinxiao Wu, Jiebo Luo</li>
 <li><code class="language-plaintext highlighter-rouge">Arxiv 2024</code><strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:WF5omc3nYNoC'></span></strong>, <a href="https://arxiv.org/pdf/2403.01209.pdf">Data-free Multi-label Image Recognition via LLM-powered Prompt Tuning</a>, <strong>Shuo Yang</strong>, Zirui Shang, Yongqi Wang, Derong Deng, Hongwei Chen, Qiyuan Cheng, Xinxiao Wu </li>
 <li><code class="language-plaintext highlighter-rouge">Arxiv 2017</code><strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:d1gkVwhDpl0C'></span></strong>,  <a href="https://arxiv.org/pdf/1704.02224.pdf">Hand3D: Hand Pose Estimation using 3D Neural Network</a>, Xiaoming Deng$\ast$, <strong>Shuo Yang</strong>$\ast$, Yinda Zhang$\ast$, Ping Tan, Liang Chang, Hongan Wang </li>
 <li><code class="language-plaintext highlighter-rouge">Acta Automatica Sinica 2016</code><strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:qjMakFHDy7sC'></span></strong>, <a href="https://faculty.csu.edu.cn/_resources/group1/M00/00/67/wKiylWIpceKAYBdpAA4EeS6lmws466.pdf">Convolutional neural networks in image understanding</a>, Liang Chang, Xiaoming Deng, Mingquan Zhou, Zhongke Wu, Ye Yuan, <strong>Shuo Yang</strong>, Hongan Wang  </li> 
