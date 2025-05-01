@@ -50,7 +50,7 @@ You can contact me via e-mail: yangshuo@smbu.edu.cn; yangshuo129@gmail.com.
 [End-to-end Open-vocabulary Video Visual Relationship Detection using Multi-modal Prompting](https://ieeexplore.ieee.org/abstract/document/10966052)
 <strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:UebtZRa9Y70C'></span></strong>
 
-- Yongqi Wang, <strong>Shuo Yang</strong>, Xinxiao Wu, Jiebo Luo
+- Yongqi Wang, Xinxiao Wu, <strong>Shuo Yang</strong>, Jiebo Luo
 - *IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025.*
   
   [[Paper]](https://arxiv.org/abs/2409.12499) [[BibTex]](images/TPAMI2025.bib)
