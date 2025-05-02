@@ -32,7 +32,7 @@ You can contact me via e-mail: yangshuo@smbu.edu.cn; yangshuo129@gmail.com.
 - *2024.10* &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/abstract/document/10740465"><span style="font-style: italic;">A image-text matching</span></a> paper is accepted by IEEE <span style="color: #A93226;">Signal Processing Letter</span> 2024 (<span style="color: #A93226;">JCR3, IF=3.2</span>)!
 - *2024.10* &nbsp;🎉🎉 <a href="https://link.springer.com/chapter/10.1007/978-981-97-8620-6_38"><span style="font-style: italic;">A language-driven action localization</span></a> paper is accepted by <span style="color: #A93226;">PRCV</span> 2024 (CCF-C conference) !
 - *2024.08* &nbsp;🎉🎉 <a href="https://crad.ict.ac.cn/article/cstr/32373.14.issn1000-1239.202440522"><span style="font-style: italic;">A open-vocabulary multi-label action classification</span></a> paper is accepted by <span style="color: #A93226;">《计算机研究与发展》</span> 2024 (CCF-A Chinese, IF=2.65)! 
-- *2024.06* &nbsp;😊😊 I graduated from Beijing Institute of Technology (北京理工大学) and got a position as an Tenure-Track Associate Professor (Pre-Tenure) at Shenzhen MSU-BIT University (深圳北理莫斯科大学)!
+- *2024.06* &nbsp;😊😊 I graduated from Beijing Institute of Technology (北京理工大学) and got a position as an Tenure-Track Associate Professor (Pre-Tenure) at <a href="https://www.smbu.edu.cn/info/5731/106871.htm"> Shenzhen MSU-BIT University (深圳北理莫斯科大学)! </a>
 - *2024.02*: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/10449438"><span style="font-style: italic;">A language-driven action localization</span></a> paper is accepted by IEEE <span style="color: #A93226;">T-MM</span> 2024 (<span style="color: #A93226;">JCR1, IF=7.3</span>)! 
 - *2023.12*: &nbsp;🎉🎉 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/28472"><span style="font-style: italic;">A video visual relationship detection</span></a> paper is accepted by <span style="color: #A93226;">AAAI</span> 2024 (<span style="color: #A93226;">CCF-A</span> conference)!
 - *2023.07*: &nbsp;🎉🎉 <a href="https://dl.acm.org/doi/10.1145/3581783.3612512"><span style="font-style: italic;">A frame-supervised language-driven action localization</span></a> paper is accepted by <span style="color: #A93226;">ACM MM</span> 2023 (<span style="color: #A93226;">CCF-A</span> conference)!
@@ -139,7 +139,7 @@ You can contact me via e-mail: yangshuo@smbu.edu.cn; yangshuo129@gmail.com.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2028</div><img src='images/TIP18.png' alt="sym" width="100%" height="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2018</div><img src='images/TIP18.png' alt="sym" width="100%" height="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Joint Hand Detection and Rotation Estimation Using CNN](https://ieeexplore.ieee.org/document/8128503) 
