@@ -26,14 +26,14 @@ You can contact me via e-mail: yangshuo@smbu.edu.cn; yangshuo129@gmail.com.
 <!-- I have published about 10 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
-- *2025.04* &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/abstract/document/10966052/"><span style="font-style: italic;">A video visual relationship detection</span></a> paper is accepted by <span style="color: #A93226;">IJCAI</span> 2025 (<span style="color: #A93226;">CCF-A</span> conference)!
-- *2025.04* &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/abstract/document/10966052/"><span style="font-style: italic;">A video visual relationship detection</span></a> paper is accepted by <span style="color: #A93226;">IEEE T-PAMI</span> 2025 (<span style="color: #A93226;">CCF-A, JCR1, IF=20.8</span>)!
+- *2025.04* &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2505.06663"><span style="font-style: italic;">A video visual relationship detection</span></a> paper is accepted by <span style="color: #A93226;">IJCAI</span> 2025 (<span style="color: #A93226;">CCF-A</span> conference)!
+- *2025.04* &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/abstract/document/10966052/"><span style="font-style: italic;">A video visual relationship detection</span></a> paper is accepted by <span style="color: #A93226;">IEEE TPAMI</span> 2025 (<span style="color: #A93226;">CCF-A, JCR1, IF=20.8</span>)!
+- *2025.01* &nbsp;🎉🎉 <a href="https://crad.ict.ac.cn/article/cstr/32373.14.issn1000-1239.202440522"><span style="font-style: italic;">A open-vocabulary multi-label action classification</span></a> paper is published in <span style="color: #A93226;">《计算机研究与发展》</span> 2025 (CCF-A Chinese, IF=2.65)! 
 - *2024.12* &nbsp;🎉🎉 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32727"><span style="font-style: italic;">A video Summarization </span></a> paper is accepted by <span style="color: #A93226;">AAAI</span> 2025 (<span style="color: #A93226;">CCF-A</span> conference)!
-- *2024.10* &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/abstract/document/10740465"><span style="font-style: italic;">A image-text matching</span></a> paper is accepted by IEEE <span style="color: #A93226;">Signal Processing Letter</span> 2024 (<span style="color: #A93226;">JCR3, IF=3.2</span>)!
+- *2024.10* &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/abstract/document/10740465"><span style="font-style: italic;">A image-text matching</span></a> paper is accepted by <span style="color: #A93226;">IEEE Signal Processing Letter</span> 2024 (<span style="color: #A93226;">JCR3, IF=3.2</span>)!
 - *2024.10* &nbsp;🎉🎉 <a href="https://link.springer.com/chapter/10.1007/978-981-97-8620-6_38"><span style="font-style: italic;">A language-driven action localization</span></a> paper is accepted by <span style="color: #A93226;">PRCV</span> 2024 (CCF-C conference) !
-- *2024.08* &nbsp;🎉🎉 <a href="https://crad.ict.ac.cn/article/cstr/32373.14.issn1000-1239.202440522"><span style="font-style: italic;">A open-vocabulary multi-label action classification</span></a> paper is accepted by <span style="color: #A93226;">《计算机研究与发展》</span> 2024 (CCF-A Chinese, IF=2.65)! 
 - *2024.06* &nbsp;😊😊 I graduated from Beijing Institute of Technology (北京理工大学) and got a position as an Tenure-Track Associate Professor (Pre-Tenure) at <a href="https://www.smbu.edu.cn/info/5731/106871.htm"> Shenzhen MSU-BIT University (深圳北理莫斯科大学)! </a>
-- *2024.02*: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/10449438"><span style="font-style: italic;">A language-driven action localization</span></a> paper is accepted by IEEE <span style="color: #A93226;">T-MM</span> 2024 (<span style="color: #A93226;">JCR1, IF=7.3</span>)! 
+- *2024.02*: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/10449438"><span style="font-style: italic;">A language-driven action localization</span></a> paper is accepted by <span style="color: #A93226;">IEEE TMM</span> 2024 (<span style="color: #A93226;">JCR1, IF=7.3</span>)! 
 - *2023.12*: &nbsp;🎉🎉 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/28472"><span style="font-style: italic;">A video visual relationship detection</span></a> paper is accepted by <span style="color: #A93226;">AAAI</span> 2024 (<span style="color: #A93226;">CCF-A</span> conference)!
 - *2023.07*: &nbsp;🎉🎉 <a href="https://dl.acm.org/doi/10.1145/3581783.3612512"><span style="font-style: italic;">A frame-supervised language-driven action localization</span></a> paper is accepted by <span style="color: #A93226;">ACM MM</span> 2023 (<span style="color: #A93226;">CCF-A</span> conference)!
 - *2022.04*: &nbsp;🎉🎉 <a href="http://arxiv.org/abs/2205.05854"><span style="font-style: italic;">A language-driven action localization</span></a> paper is accepted by <span style="color: #A93226;">IJCAI</span> 2022 (<span style="color: #A93226;">CCF-A</span> conference)!
@@ -44,6 +44,21 @@ You can contact me via e-mail: yangshuo@smbu.edu.cn; yangshuo129@gmail.com.
 <a href='https://scholar.google.com/citations?user=JJEEfUIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"/></a> &emsp; ($\ast$ means equal contribution, $\dagger$ means corresponding author)
 
 <!-- --------------------------------------------------------------------------------------------------------- -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/IJCAI2025.png' alt="sym" width="100%" height="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[METOR: A Unified Framework for Mutual Enhancement of Objects and Relationships in Open-vocabulary Video Visual Relationship Detection
+](https://arxiv.org/abs/2505.06663)
+<strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:hqOjcs7Dif8C'></span></strong>
+
+- Yongqi Wang, Xinxiao Wu, <strong>Shuo Yang</strong>$\dagger$
+- *The 34th International Joint Conference on Artificial Intelligence (IJCAI), 2025.*
+  
+  [[Paper]](https://arxiv.org/abs/2505.06663) [[BibTex]](images/IJCAI2025.bib) [[Code]](https://github.com/wangyongqi558/METOR)
+</div>
+</div>
+
+<!-- --------------------------------------------------------------------------------------------------------- -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/TPAMI2025.png' alt="sym" width="100%" height="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -51,9 +66,9 @@ You can contact me via e-mail: yangshuo@smbu.edu.cn; yangshuo129@gmail.com.
 <strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:UebtZRa9Y70C'></span></strong>
 
 - Yongqi Wang, Xinxiao Wu, <strong>Shuo Yang</strong>, Jiebo Luo
-- *IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025.*
+- *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025.*
   
-  [[Paper]](https://arxiv.org/abs/2409.12499) [[BibTex]](images/TPAMI2025.bib)
+  [[Paper]](https://arxiv.org/abs/2409.12499) [[BibTex]](images/TPAMI2025.bib) [[Code]](https://github.com/wangyongqi558/EOV-MMP-VidVRD)
 </div>
 </div>
 
@@ -155,9 +170,9 @@ You can contact me via e-mail: yangshuo@smbu.edu.cn; yangshuo129@gmail.com.
   
 </div>
 </div>
+<li><code class="language-plaintext highlighter-rouge">计算机研究与发展 2025</code>, <a href="https://crad.ict.ac.cn/article/cstr/32373.14.issn1000-1239.202440522">大语言模型知识引导的开放域多标签动作识别</a>, 朱荣江, 石语珩, <strong>杨硕</strong>, 王子奕, 吴心筱 </li>
 <li><code class="language-plaintext highlighter-rouge">SPL 2024</code><strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:Se3iqnhoufwC'></span></strong>, <a href="https://ieeexplore.ieee.org/abstract/document/10740465">Source-free Image-text Matching via Uncertainty-aware Learning</a>, Mengxiao Tian, <strong>Shuo Yang</strong>$\dagger$, Xinxiao Wu, Yunde Jia </li>
 <li><code class="language-plaintext highlighter-rouge">PRCV 2024</code><strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:roLk4NBRz8UC'></span></strong>, <a href="https://link.springer.com/chapter/10.1007/978-981-97-8620-6_38">Efficient Language-Driven Action Localization by Feature Aggregation and Prediction Adjustment</a>, Zirui Shang, <strong>Shuo Yang</strong>$\dagger$, Xinxiao Wu </li>
-<li><code class="language-plaintext highlighter-rouge">计算机研究与发展 2024</code>, <a href="https://crad.ict.ac.cn/article/cstr/32373.14.issn1000-1239.202440522">大语言模型知识引导的开放域多标签动作识别</a>, 朱荣江, 石语珩, <strong>杨硕</strong>, 王子奕, 吴心筱 </li>
 <!-- <li><code class="language-plaintext highlighter-rouge">Arxiv 2024</code><strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:LkGwnXOMwfcC'></span></strong>, <a href="https://arxiv.org/abs/2409.12499">End-to-end Open-vocabulary Video Visual Relationship Detection using Multi-modal Prompting</a>, Yongqi Wang, <strong>Shuo Yang</strong>, Xinxiao Wu, Jiebo Luo</li> -->
 <li><code class="language-plaintext highlighter-rouge">Arxiv 2024</code><strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:WF5omc3nYNoC'></span></strong>, <a href="https://arxiv.org/pdf/2403.01209.pdf">Data-free Multi-label Image Recognition via LLM-powered Prompt Tuning</a>, <strong>Shuo Yang</strong>, Zirui Shang, Yongqi Wang, Derong Deng, Hongwei Chen, Qiyuan Cheng, Xinxiao Wu </li>
 <li><code class="language-plaintext highlighter-rouge">Arxiv 2017</code><strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:d1gkVwhDpl0C'></span></strong>,  <a href="https://arxiv.org/pdf/1704.02224.pdf">Hand3D: Hand Pose Estimation using 3D Neural Network</a>, Xiaoming Deng$\ast$, <strong>Shuo Yang</strong>$\ast$, Yinda Zhang$\ast$, Ping Tan, Liang Chang, Hongan Wang </li>
@@ -171,7 +186,7 @@ You can contact me via e-mail: yangshuo@smbu.edu.cn; yangshuo129@gmail.com.
 # 📖 Educations
 - *2018.09 - 2024.06*, Ph.D. in Computer Science, School of Computer Science & Technology, Beijing Institute of Technology. 
     
-    Advisor: [Shuliang Wang](https://cs.bit.edu.cn/szdw/jsml/gjjgccrc/wsl_6564a5dd48a047d2a3944b3abb23108e/index.htm)(2018.09 - 2021.06) and [Xinxiao Wu](https://wuxinxiao.github.io/) from 2021.06. 
+    Advisor: [Shuliang Wang](https://cs.bit.edu.cn/szdw/jsml/bssds/e33ed58303834b8bacb757f38538e00d.htm)(2018.09 - 2021.06) and [Xinxiao Wu](https://wuxinxiao.github.io/) from 2021.06. 
 - *2014.09 - 2017.07*, M.S. in Computer Science, Institute of Software, Chinese Academic of Science. 
 
   Advisor: [Xiaoming Deng](http://www.idengxm.com/). 
@@ -182,6 +197,6 @@ You can contact me via e-mail: yangshuo@smbu.edu.cn; yangshuo129@gmail.com.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
  -->
 # 💻 Experiences
-- *2024.06 - now*, Tenure-Track Associate Professor (Pre-Tenure) at [Shenzhen MSU-BIT University](https://szmsubit.ru/en/), Shenzhen, China.
+- *2024.06 - now*, Tenure-Track Associate Professor (Pre-Tenure) at [Shenzhen MSU-BIT University](https://en.smbu.edu.cn/), Shenzhen, China.
 - *2019.05 - 2020.02*, Research intern at [Megvii-inc](https://en.megvii.com/), Beijing, China.
 - *2017.07 - 2018.08*, Algorithm engineer at [JD Finance](https://jr.jddinnovation.com/), Beijing, China.
