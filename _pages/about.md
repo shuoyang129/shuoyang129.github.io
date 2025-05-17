@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My primary research focuses on the intersection of vision and language. Currently, I am exploring the application of large language models (LLMs) to tasks involving vision, language, and robotics, such as language-driven video understanding, open-vocabulary multi-label image recognition, and interactional robots. Previously, my work centered on hand detection, hand pose estimation, face recognition, and person re-identification.
+My primary research focuses on the intersection of vision and language. Currently, I am exploring the tasks involving vision, language, and robotics, such as language-driven video understanding, open-vocabulary image/video understanding, and interactional robots. Previously, my work centered on hand detection, hand pose estimation, face recognition, and person re-identification.
+
+<span style="color: #0d0dff;">Welcome students who are interested in the research of **vision and language**, **intelligent robots** to join us!</span>
 
 You can contact me via e-mail: yangshuo@smbu.edu.cn; yangshuo129@gmail.com.
 <!-- All of my publications can be found at Google Scholar <a href='https://scholar.google.com/citations?user=JJEEfUIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"/></a> -->
@@ -63,7 +65,7 @@ You can contact me via e-mail: yangshuo@smbu.edu.cn; yangshuo129@gmail.com.
 <div class='paper-box-text' markdown="1">
 
 [End-to-end Open-vocabulary Video Visual Relationship Detection using Multi-modal Prompting](https://ieeexplore.ieee.org/abstract/document/10966052)
-<strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:UebtZRa9Y70C'></span></strong>
+<strong><span class='show_paper_citations' data='JJEEfUIAAAAJ:LkGwnXOMwfcC'></span></strong>
 
 - Yongqi Wang, Xinxiao Wu, <strong>Shuo Yang</strong>, Jiebo Luo
 - *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025.*
