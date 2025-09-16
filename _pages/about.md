@@ -214,6 +214,6 @@ You can contact me via e-mail: yangshuo@smbu.edu.cn; yangshuo129@gmail.com.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
  -->
 # 💻 Experiences
-- *2024.06 - now*, Tenure-Track Associate Professor (Pre-Tenure) at [Shenzhen MSU-BIT University](https://en.smbu.edu.cn/), Shenzhen, China.
+- *2024.06 - now*, Associate Professor at [Shenzhen MSU-BIT University](https://en.smbu.edu.cn/), Shenzhen, China.
 - *2019.05 - 2020.02*, Research intern at [Megvii-inc](https://en.megvii.com/), Beijing, China.
 - *2017.07 - 2018.08*, Algorithm engineer at [JD Finance](https://jr.jddinnovation.com/), Beijing, China.
