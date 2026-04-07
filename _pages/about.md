@@ -31,7 +31,7 @@ You can contact me via e-mail: yangshuo@smbu.edu.cn; yangshuo129@gmail.com.
 # 🔥 News {#news}
 
 <div class="news-scroll" markdown="1">
-- *2025.12* &nbsp;🎉🎉 A <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325016498"><span style="font-style: italic;">image-free multi-label image recognition</span></a> paper is accepted by <span style="color: #A93226;">Pattern Recognition</span> 2026 (<span style="color: #A93226;">中科院一区, JCR Q1, IF=7.6</span>)! 
+- *2025.12* &nbsp;🎉🎉 An <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325016498"><span style="font-style: italic;">image-free multi-label image recognition</span></a> paper is accepted by <span style="color: #A93226;">Pattern Recognition</span> 2026 (<span style="color: #A93226;">中科院一区, JCR Q1, IF=7.6</span>)! 
 - *2025.06* &nbsp;🎉🎉 An <a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Tian_LLM-enhanced_Action-aware_Multi-modal_Prompt_Tuning_for_Image-Text_Matching_ICCV_2025_paper.pdf"><span style="font-style: italic;">image-text matching</span></a> paper is accepted by <span style="color: #A93226;">ICCV</span> 2025 (<span style="color: #A93226;">CCF-A</span> conference)!
 - *2025.04* &nbsp;🎉🎉 A <a href="https://www.ijcai.org/proceedings/2025/0223.pdf"><span style="font-style: italic;">video visual relationship detection</span></a> paper is accepted by <span style="color: #A93226;">IJCAI</span> 2025 (<span style="color: #A93226;">CCF-A</span> conference)!
 - *2025.04* &nbsp;🎉🎉 A <a href="https://ieeexplore.ieee.org/abstract/document/10966052/"><span style="font-style: italic;">video visual relationship detection</span></a> paper is accepted by <span style="color: #A93226;">IEEE TPAMI</span> 2025 (<span style="color: #A93226;">CCF-A, 中科院一区, JCR Q1, IF=20.8</span>)!
@@ -49,7 +49,7 @@ You can contact me via e-mail: yangshuo@smbu.edu.cn; yangshuo129@gmail.com.
 </div>
 
 # 📝 Publications {#publications}
-<a href='https://scholar.google.com/citations?user=JJEEfUIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"/></a> &emsp; ($\ast$ means equal contribution, $\dagger$ means corresponding author)
+<a href="https://scholar.google.com/citations?user=JJEEfUIAAAAJ" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar citations"/></a> &emsp; ($\ast$ means equal contribution, $\dagger$ means corresponding author)
 
 <div class="publications-wrap">
 

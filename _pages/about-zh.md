@@ -46,7 +46,7 @@ author_profile: true
 </div>
 
 # 📝 论文 {#publications}
-<a href='https://scholar.google.com/citations?user=JJEEfUIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"/></a> &emsp; （$\ast$ 表示共同一作，$\dagger$ 表示通讯作者）
+<a href="https://scholar.google.com/citations?user=JJEEfUIAAAAJ" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar 引用"/></a> &emsp; （$\ast$ 表示共同一作，$\dagger$ 表示通讯作者）
 
 <div class="publications-wrap">
 
@@ -229,8 +229,8 @@ author_profile: true
   -->
 
 # 📖 教育背景 {#educations}
-- *2018.09 - 2024.06*，计算机科学博士，北京理工大学计算机学院。导师：[王树良](https://cs.bit.edu.cn/szdw/jsml/bssds/e33ed58303834b8bacb757f38538e00d.htm)（2018.09 - 2021.06），2021.06 起师从 [吴心筱](https://wuxinxiao.github.io/)。
-- *2014.09 - 2017.07*，计算机科学硕士，中国科学院软件研究所。导师：[邓小明](http://www.idengxm.com/)。
+- *2018.09 - 2024.06*，计算机科学博士，北京理工大学计算机学院。<br>导师：[王树良](https://cs.bit.edu.cn/szdw/jsml/bssds/e33ed58303834b8bacb757f38538e00d.htm)（2018.09 - 2021.06），2021.06 起师从 [吴心筱](https://wuxinxiao.github.io/)。
+- *2014.09 - 2017.07*，计算机科学硕士，中国科学院软件研究所。<br>导师：[邓小明](http://www.idengxm.com/)。
 - *2010.09 - 2014.07*，计算机科学学士，北京联合大学信息学院。
 
 <!-- # 💬 Invited Talks
