@@ -107,3 +107,76 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* Scrollable News list: fixed viewport height, inner scroll */
+.news-scroll {
+    max-height: min(18rem, 42vh);
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    overscroll-behavior: contain;
+    /* Slight negative margin uses more of the content column width */
+    margin: 0.35rem -0.55rem 1.25rem -0.55rem;
+    box-sizing: border-box;
+    padding: 0.4rem 0.12rem 0.4rem 0.18rem;
+    border: 1px solid $border-color;
+    border-radius: $border-radius;
+    background: mix(#fff, $lighter-gray, 65%);
+
+    ul {
+        margin-bottom: 0;
+        padding-left: 1em;
+    }
+}
+
+/* Publications: default show recent entries; expand for the rest */
+.publications-more-actions {
+    margin: 1.1em 0 0;
+    text-align: center;
+}
+
+.publications-toggle {
+    margin-bottom: 0;
+}
+
+.publications-extra-list {
+    margin-top: 0.5rem;
+    margin-bottom: 0;
+}
+
+/* Language switcher (masthead top-right) */
+.masthead__inner-wrap--split {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem 1rem;
+}
+
+.masthead__primary {
+    flex: 1 1 auto;
+    min-width: 0;
+}
+
+.lang-switcher {
+    flex: 0 0 auto;
+    font-size: $type-size-6;
+    font-family: $sans-serif-narrow;
+    white-space: nowrap;
+
+    a {
+        text-decoration: none;
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+
+    &__current {
+        color: mix(#000, $text-color, 35%);
+        font-weight: 700;
+    }
+
+    &__sep {
+        margin: 0 0.35em;
+        opacity: 0.45;
+    }
+}

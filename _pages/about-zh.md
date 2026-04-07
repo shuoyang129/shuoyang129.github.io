@@ -1,12 +1,9 @@
 ---
-permalink: /
-lang: en
+permalink: /zh/
+lang: zh
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -18,38 +15,38 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My primary research focuses on the intersection of vision and language. Currently, I am exploring the tasks involving vision, language, and robotics, such as language-driven video understanding, open-vocabulary image/video understanding, and interactional robots. Previously, my work centered on hand detection, hand pose estimation, face recognition, and person re-identification.
+本人主要研究方向为视觉与语言的交叉领域。目前关注视觉、语言与机器人相结合的任务，例如语言驱动的视频理解、开放词汇图像/视频理解以及交互式机器人等。此前工作涉及手部检测、手部姿态估计、人脸识别与行人重识别等。
 
-<span style="color: #0d0dff;">Welcome students who are interested in the research of **vision and language**, **intelligent robots** to join us!</span>
+<span style="color: #0d0dff;">欢迎对**视觉与语言**、**智能机器人**等方向感兴趣的同学加入课题组！</span>
 
-You can contact me via e-mail: yangshuo@smbu.edu.cn; yangshuo129@gmail.com.
+联系邮箱：yangshuo@smbu.edu.cn；yangshuo129@gmail.com。
 <!-- All of my publications can be found at Google Scholar <a href='https://scholar.google.com/citations?user=JJEEfUIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"/></a> -->
 <!-- Additionally, I maintain a keen interest in 3D vision encompassing reconstruction and understanding of 3D scenes. -->
 
 <!-- I have published about 10 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-# 🔥 News {#news}
+# 🔥 学术动态 {#news}
 
 <div class="news-scroll" markdown="1">
-- *2025.12* &nbsp;🎉🎉 A <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325016498"><span style="font-style: italic;">image-free multi-label image recognition</span></a> paper is accepted by <span style="color: #A93226;">Pattern Recognition</span> 2026 (<span style="color: #A93226;">中科院一区, JCR Q1, IF=7.6</span>)! 
-- *2025.06* &nbsp;🎉🎉 An <a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Tian_LLM-enhanced_Action-aware_Multi-modal_Prompt_Tuning_for_Image-Text_Matching_ICCV_2025_paper.pdf"><span style="font-style: italic;">image-text matching</span></a> paper is accepted by <span style="color: #A93226;">ICCV</span> 2025 (<span style="color: #A93226;">CCF-A</span> conference)!
-- *2025.04* &nbsp;🎉🎉 A <a href="https://www.ijcai.org/proceedings/2025/0223.pdf"><span style="font-style: italic;">video visual relationship detection</span></a> paper is accepted by <span style="color: #A93226;">IJCAI</span> 2025 (<span style="color: #A93226;">CCF-A</span> conference)!
-- *2025.04* &nbsp;🎉🎉 A <a href="https://ieeexplore.ieee.org/abstract/document/10966052/"><span style="font-style: italic;">video visual relationship detection</span></a> paper is accepted by <span style="color: #A93226;">IEEE TPAMI</span> 2025 (<span style="color: #A93226;">CCF-A, 中科院一区, JCR Q1, IF=20.8</span>)!
-- *2025.01* &nbsp;🎉🎉 An <a href="https://crad.ict.ac.cn/article/cstr/32373.14.issn1000-1239.202440522"><span style="font-style: italic;">open-vocabulary multi-label action classification</span></a> paper is published in <span style="color: #A93226;">《计算机研究与发展》</span> 2025 (CCF-A Chinese, IF=2.65)! 
-- *2024.12* &nbsp;🎉🎉 A <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32727"><span style="font-style: italic;">video Summarization </span></a> paper is accepted by <span style="color: #A93226;">AAAI</span> 2025 (<span style="color: #A93226;">CCF-A</span> conference)!
-- *2024.10* &nbsp;🎉🎉 An <a href="https://ieeexplore.ieee.org/abstract/document/10740465"><span style="font-style: italic;">image-text matching</span></a> paper is accepted by <span style="color: #A93226;">IEEE Signal Processing Letter</span> 2024 (<span style="color: #A93226;">JCR Q2, 中科院三区, IF=3.2</span>)!
-- *2024.10* &nbsp;🎉🎉 A <a href="https://link.springer.com/chapter/10.1007/978-981-97-8620-6_38"><span style="font-style: italic;"> language-driven action localization</span></a> paper is accepted by <span style="color: #A93226;">PRCV</span> 2024 (CCF-C conference) !
-- *2024.06* &nbsp;😊😊 I graduated from Beijing Institute of Technology (北京理工大学) and got a position as an Associate Professor at <a href="https://www.smbu.edu.cn/info/5731/106871.htm"> Shenzhen MSU-BIT University (深圳北理莫斯科大学)! </a>
-- *2024.02*: &nbsp;🎉🎉 A <a href="https://ieeexplore.ieee.org/document/10449438"><span style="font-style: italic;">language-driven action localization</span></a> paper is accepted by <span style="color: #A93226;">IEEE TMM</span> 2024 (<span style="color: #A93226;">中科院一区, JCR Q1, IF=7.3</span>)! 
-- *2023.12*: &nbsp;🎉🎉 A <a href="https://ojs.aaai.org/index.php/AAAI/article/view/28472"><span style="font-style: italic;">video visual relationship detection</span></a> paper is accepted by <span style="color: #A93226;">AAAI</span> 2024 (<span style="color: #A93226;">CCF-A</span> conference)!
-- *2023.07*: &nbsp;🎉🎉 A <a href="https://dl.acm.org/doi/10.1145/3581783.3612512"><span style="font-style: italic;">frame-supervised language-driven action localization</span></a> paper is accepted by <span style="color: #A93226;">ACM MM</span> 2023 (<span style="color: #A93226;">CCF-A</span> conference)!
-- *2022.04*: &nbsp;🎉🎉 A <a href="http://arxiv.org/abs/2205.05854"><span style="font-style: italic;"> language-driven action localization</span></a> paper is accepted by <span style="color: #A93226;">IJCAI</span> 2022 (<span style="color: #A93226;">CCF-A</span> conference)!
-- *2021.06*: &nbsp;😊😊 I attend a new research group under supervised by Prof.<a href="https://wuxinxiao.github.io/">Xinxiao Wu.</a>
-- *2020.03*: &nbsp;🎉🎉 A <a href="https://arxiv.org/abs/2003.08177"><span style="font-style: italic;">person re-identification</span></a> paper is accepted by <span style="color: #A93226;">CVPR</span> 2020 (<span style="color: #A93226;">CCF-A</span> conference)!
+- *2025.12* &nbsp;🎉🎉 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325016498"><span style="font-style: italic;">无图像多标签图像识别</span></a> 论文被 <span style="color: #A93226;">Pattern Recognition</span> 2026 录用（<span style="color: #A93226;">中科院一区, JCR Q1, IF=7.6</span>）！
+- *2025.06* &nbsp;🎉🎉 <a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Tian_LLM-enhanced_Action-aware_Multi-modal_Prompt_Tuning_for_Image-Text_Matching_ICCV_2025_paper.pdf"><span style="font-style: italic;">图像—文本匹配</span></a> 论文被 <span style="color: #A93226;">ICCV</span> 2025 录用（<span style="color: #A93226;">CCF-A</span>）！
+- *2025.04* &nbsp;🎉🎉 <a href="https://www.ijcai.org/proceedings/2025/0223.pdf"><span style="font-style: italic;">开放词汇视频视觉关系检测</span></a> 论文被 <span style="color: #A93226;">IJCAI</span> 2025 录用（<span style="color: #A93226;">CCF-A</span>）！
+- *2025.04* &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/abstract/document/10966052/"><span style="font-style: italic;">开放词汇视频视觉关系检测</span></a> 论文发表于 <span style="color: #A93226;">IEEE TPAMI</span> 2025（<span style="color: #A93226;">CCF-A, 中科院一区, JCR Q1, IF=20.8</span>）！
+- *2025.01* &nbsp;🎉🎉 <a href="https://crad.ict.ac.cn/article/cstr/32373.14.issn1000-1239.202440522"><span style="font-style: italic;">开放词汇多标签动作分类</span></a> 论文发表于 <span style="color: #A93226;">《计算机研究与发展》</span> 2025（CCF-A 中文期刊, IF=2.65）！
+- *2024.12* &nbsp;🎉🎉 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32727"><span style="font-style: italic;">视频摘要</span></a> 论文被 <span style="color: #A93226;">AAAI</span> 2025 录用（<span style="color: #A93226;">CCF-A</span>）！
+- *2024.10* &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/abstract/document/10740465"><span style="font-style: italic;">图像—文本匹配</span></a> 论文被 <span style="color: #A93226;">IEEE SPL</span> 2024 录用（<span style="color: #A93226;">JCR Q2, 中科院三区, IF=3.2</span>）！
+- *2024.10* &nbsp;🎉🎉 <a href="https://link.springer.com/chapter/10.1007/978-981-97-8620-6_38"><span style="font-style: italic;">语言驱动的动作定位</span></a> 论文被 <span style="color: #A93226;">PRCV</span> 2024 录用（CCF-C）！
+- *2024.06* &nbsp;😊😊 毕业于北京理工大学，入职 <a href="https://www.smbu.edu.cn/info/5731/106871.htm">深圳北理莫斯科大学</a> 任副教授。
+- *2024.02* &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/10449438"><span style="font-style: italic;">语言驱动的动作定位</span></a> 论文被 <span style="color: #A93226;">IEEE TMM</span> 2024 录用（<span style="color: #A93226;">中科院一区, JCR Q1, IF=7.3</span>）！
+- *2023.12* &nbsp;🎉🎉 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/28472"><span style="font-style: italic;">开放词汇视频视觉关系检测</span></a> 论文被 <span style="color: #A93226;">AAAI</span> 2024 录用（<span style="color: #A93226;">CCF-A</span>）！
+- *2023.07* &nbsp;🎉🎉 <a href="https://dl.acm.org/doi/10.1145/3581783.3612512"><span style="font-style: italic;">帧监督语言驱动的动作定位</span></a> 论文被 <span style="color: #A93226;">ACM MM</span> 2023 录用（<span style="color: #A93226;">CCF-A</span>）！
+- *2022.04* &nbsp;🎉🎉 <a href="http://arxiv.org/abs/2205.05854"><span style="font-style: italic;">语言驱动的动作定位</span></a> 论文被 <span style="color: #A93226;">IJCAI</span> 2022 录用（<span style="color: #A93226;">CCF-A</span>）！
+- *2021.06* &nbsp;😊😊 加入 <a href="https://wuxinxiao.github.io/">吴心筱</a> 教授课题组。
+- *2020.03* &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2003.08177"><span style="font-style: italic;">行人重识别</span></a> 论文被 <span style="color: #A93226;">CVPR</span> 2020 录用（<span style="color: #A93226;">CCF-A</span>）！
 </div>
 
-# 📝 Publications {#publications}
-<a href='https://scholar.google.com/citations?user=JJEEfUIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"/></a> &emsp; ($\ast$ means equal contribution, $\dagger$ means corresponding author)
+# 📝 论文 {#publications}
+<a href='https://scholar.google.com/citations?user=JJEEfUIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"/></a> &emsp; （$\ast$ 表示共同一作，$\dagger$ 表示通讯作者）
 
 <div class="publications-wrap">
 
@@ -222,7 +219,7 @@ You can contact me via e-mail: yangshuo@smbu.edu.cn; yangshuo129@gmail.com.
 
 </div>
 
-<p class="publications-more-actions"><button type="button" class="btn publications-toggle" aria-expanded="false" aria-controls="publications-more" data-label-more="Show more" data-label-less="Show less">Show more</button></p>
+<p class="publications-more-actions"><button type="button" class="btn publications-toggle" aria-expanded="false" aria-controls="publications-more" data-label-more="查看更多" data-label-less="收起">查看更多</button></p>
 
 </div>
 
@@ -231,20 +228,16 @@ You can contact me via e-mail: yangshuo@smbu.edu.cn; yangshuo129@gmail.com.
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  
   -->
 
-# 📖 Educations {#educations}
-- *2018.09 - 2024.06*, Ph.D. in Computer Science, School of Computer Science & Technology, Beijing Institute of Technology. 
-    
-    Advisor: [Shuliang Wang](https://cs.bit.edu.cn/szdw/jsml/bssds/e33ed58303834b8bacb757f38538e00d.htm)(2018.09 - 2021.06) and [Xinxiao Wu](https://wuxinxiao.github.io/) from 2021.06. 
-- *2014.09 - 2017.07*, M.S. in Computer Science, Institute of Software, Chinese Academic of Science. 
-
-  Advisor: [Xiaoming Deng](http://www.idengxm.com/). 
-- *2010.09 - 2014.07*, B.S. in Computer Science, School of Information, Beijing Union University. 
+# 📖 教育背景 {#educations}
+- *2018.09 - 2024.06*，计算机科学博士，北京理工大学计算机学院。导师：[王树良](https://cs.bit.edu.cn/szdw/jsml/bssds/e33ed58303834b8bacb757f38538e00d.htm)（2018.09 - 2021.06），2021.06 起师从 [吴心筱](https://wuxinxiao.github.io/)。
+- *2014.09 - 2017.07*，计算机科学硕士，中国科学院软件研究所。导师：[邓小明](http://www.idengxm.com/)。
+- *2010.09 - 2014.07*，计算机科学学士，北京联合大学信息学院。
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
  -->
-# 💻 Experiences {#experiences}
-- *2024.06 - now*, Associate Professor at [Shenzhen MSU-BIT University](https://en.smbu.edu.cn/), Shenzhen, China.
-- *2019.05 - 2020.02*, Research intern at [Megvii-inc](https://en.megvii.com/), Beijing, China.
-- *2017.07 - 2018.08*, Algorithm engineer at [JD Finance](https://jr.jddinnovation.com/), Beijing, China.
+# 💻 工作经历 {#experiences}
+- *2024.06 - 至今*，[深圳北理莫斯科大学](https://en.smbu.edu.cn/) 副教授，深圳。
+- *2019.05 - 2020.02*，[旷视科技](https://en.megvii.com/) 研究实习生，北京。
+- *2017.07 - 2018.08*，[京东金融](https://jr.jddinnovation.com/) 算法工程师，北京。

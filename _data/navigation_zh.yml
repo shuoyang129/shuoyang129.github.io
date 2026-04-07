@@ -1,0 +1,16 @@
+# Chinese navigation (homepage /zh/)
+main:
+  - title: "关于我"
+    url: "/zh/#about-me"
+
+  - title: "学术动态"
+    url: "/zh/#news"
+
+  - title: "论文"
+    url: "/zh/#publications"
+
+  - title: "教育背景"
+    url: "/zh/#educations"
+
+  - title: "工作经历"
+    url: "/zh/#experiences"
