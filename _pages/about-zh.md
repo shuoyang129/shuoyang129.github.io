@@ -28,6 +28,7 @@ author_profile: true
 # 🔥 学术动态 {#news}
 
 <div class="news-scroll" markdown="1">
+- *2026.05* &nbsp;🎉🎉 <span style="font-style: italic;">交互式三维场景定位（3D grounding）框架与数据集</span> 论文被 <span style="color: #A93226;">ICML</span> 2026 录用（<span style="color: #A93226;">CCF-A</span>）！
 - *2025.12* &nbsp;🎉🎉 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325016498"><span style="font-style: italic;">无图像多标签图像识别</span></a> 论文被 <span style="color: #A93226;">Pattern Recognition</span> 2026 录用（<span style="color: #A93226;">中科院一区, JCR Q1, IF=7.6</span>）！
 - *2025.06* &nbsp;🎉🎉 <a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Tian_LLM-enhanced_Action-aware_Multi-modal_Prompt_Tuning_for_Image-Text_Matching_ICCV_2025_paper.pdf"><span style="font-style: italic;">图像—文本匹配</span></a> 论文被 <span style="color: #A93226;">ICCV</span> 2025 录用（<span style="color: #A93226;">CCF-A</span>）！
 - *2025.04* &nbsp;🎉🎉 <a href="https://www.ijcai.org/proceedings/2025/0223.pdf"><span style="font-style: italic;">开放词汇视频视觉关系检测</span></a> 论文被 <span style="color: #A93226;">IJCAI</span> 2025 录用（<span style="color: #A93226;">CCF-A</span>）！
