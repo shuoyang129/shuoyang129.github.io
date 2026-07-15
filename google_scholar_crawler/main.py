@@ -1,14 +1,11 @@
-from scholarly import scholarly, ProxyGenerator
-import jsonpickle
+from scholarly import scholarly
 import json
 from datetime import datetime
 import os
 
-# Setup proxy
-pg = ProxyGenerator()
-pg.FreeProxies()  # Use free rotating proxies
-scholarly.use_proxy(pg)
-
+# Avoid FreeProxies(): scholarly 1.7.11 calls free-proxy's get_proxy_list()
+# without `repeat`, which breaks on free-proxy >= 1.1.0. Free proxies are also
+# unreliable on GitHub Actions; crawl without a proxy instead.
 author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
 name = author['name']
