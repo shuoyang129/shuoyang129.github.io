@@ -18,6 +18,10 @@ jobs:
         cd ./google_scholar_crawler
         pip3 install -r requirements.txt
         python3 main.py
+        if [ ! -f ./results/gs_data.json ] || [ ! -f ./results/gs_data_shieldsio.json ]; then
+          echo "No new citation data produced; skipping push and keeping previous stats."
+          exit 0
+        fi
         cd ./results
         git init
         git config --local user.name "${GITHUB_ACTOR}"
