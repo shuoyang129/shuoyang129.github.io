@@ -28,6 +28,7 @@ author_profile: true
 # 🔥 学术动态 {#news}
 
 <div class="news-scroll" markdown="1">
+- *2026.07* &nbsp;🎉🎉 <a href="https://www.sciencedirect.com/science/article/pii/S1077314226002432"><span style="font-style: italic;">开放词汇多标签动作识别</span></a> 论文被 <span style="color: #A93226;">CVIU</span> 2026 录用（<span style="color: #A93226;">CCF-B, JCR Q2</span>）！
 - *2026.05* &nbsp;🎉🎉 <a href="https://openreview.net/forum?id=tkOMvqB6E9"><span style="font-style: italic;">交互式三维场景定位（3D grounding）框架与数据集</span></a> 论文被 <span style="color: #A93226;">ICML</span> 2026 录用（<span style="color: #A93226;">CCF-A</span>）！
 - *2025.12* &nbsp;🎉🎉 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325016498"><span style="font-style: italic;">无图像多标签图像识别</span></a> 论文被 <span style="color: #A93226;">Pattern Recognition</span> 2026 录用（<span style="color: #A93226;">中科院一区, JCR Q1, IF=7.6</span>）！
 - *2025.06* &nbsp;🎉🎉 <a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Tian_LLM-enhanced_Action-aware_Multi-modal_Prompt_Tuning_for_Image-Text_Matching_ICCV_2025_paper.pdf"><span style="font-style: italic;">图像—文本匹配</span></a> 论文被 <span style="color: #A93226;">ICCV</span> 2025 录用（<span style="color: #A93226;">CCF-A</span>）！
@@ -222,6 +223,7 @@ author_profile: true
 </div>
 </div>
 <ul class="publications-extra-list">
+<li><code class="language-plaintext highlighter-rouge">CVIU 2026</code>, <a href="https://www.sciencedirect.com/science/article/pii/S1077314226002432">Open-vocabulary multi-label action recognition in movies via LLM-enhanced prompt tuning</a>, Rongjiang Zhu, Xinxiao Wu, <strong>Shuo Yang</strong>$\dagger$, Yuheng Shi, Ziyi Wang </li>
 <li><code class="language-plaintext highlighter-rouge">计算机研究与发展 2025</code>, <a href="https://crad.ict.ac.cn/article/cstr/32373.14.issn1000-1239.202440522">大语言模型知识引导的开放域多标签动作识别</a>, 朱荣江, 石语珩, <strong>杨硕</strong>, 王子奕, 吴心筱 </li>
 <li><code class="language-plaintext highlighter-rouge">SPL 2024</code><strong><span class='show_paper_citations' data-paper-id='JJEEfUIAAAAJ:Se3iqnhoufwC'></span></strong>, <a href="https://ieeexplore.ieee.org/abstract/document/10740465">Source-free Image-text Matching via Uncertainty-aware Learning</a>, Mengxiao Tian, <strong>Shuo Yang</strong>$\dagger$, Xinxiao Wu, Yunde Jia </li>
 <li><code class="language-plaintext highlighter-rouge">PRCV 2024</code><strong><span class='show_paper_citations' data-paper-id='JJEEfUIAAAAJ:roLk4NBRz8UC'></span></strong>, <a href="https://link.springer.com/chapter/10.1007/978-981-97-8620-6_38">Efficient Language-Driven Action Localization by Feature Aggregation and Prediction Adjustment</a>, Zirui Shang, <strong>Shuo Yang</strong>$\dagger$, Xinxiao Wu </li>
