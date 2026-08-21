@@ -60,6 +60,7 @@ You can contact me via e-mail: yangshuo@smbu.edu.cn; yangshuo129@gmail.com.
 <div class='paper-box-text' markdown="1">
 
 [AmbiRefer3D: 3D Visual Grounding with Referential Ambiguity](https://openreview.net/forum?id=tkOMvqB6E9)
+<strong><span class='show_paper_citations' data-paper-id='JJEEfUIAAAAJ:kNdYIx-mwKoC'></span></strong>
 
 - Rongjiang Zhu$\ast$, Wei Kang$\ast$, Zeqi Liu, Junyu Chen, **Shuo Yang**$\dagger$, Xinxiao Wu$\dagger$
 - *International Conference on Machine Learning (ICML), 2026.*
@@ -226,8 +227,8 @@ You can contact me via e-mail: yangshuo@smbu.edu.cn; yangshuo129@gmail.com.
 </div>
 </div>
 <ul class="publications-extra-list">
-<li><code class="language-plaintext highlighter-rouge">CVIU 2026</code>, <a href="https://www.sciencedirect.com/science/article/pii/S1077314226002432">Open-vocabulary multi-label action recognition in movies via LLM-enhanced prompt tuning</a>, Rongjiang Zhu, Xinxiao Wu, <strong>Shuo Yang</strong>$\dagger$, Yuheng Shi, Ziyi Wang </li>
-<li><code class="language-plaintext highlighter-rouge">计算机研究与发展 2025</code>, <a href="https://crad.ict.ac.cn/article/cstr/32373.14.issn1000-1239.202440522">大语言模型知识引导的开放域多标签动作识别</a>, 朱荣江, 石语珩, <strong>杨硕</strong>, 王子奕, 吴心筱 </li>
+<li><code class="language-plaintext highlighter-rouge">CVIU 2026</code><strong><span class='show_paper_citations' data-paper-id='JJEEfUIAAAAJ:3fE2CSJIrl8C'></span></strong>, <a href="https://www.sciencedirect.com/science/article/pii/S1077314226002432">Open-vocabulary multi-label action recognition in movies via LLM-enhanced prompt tuning</a>, Rongjiang Zhu, Xinxiao Wu, <strong>Shuo Yang</strong>$\dagger$, Yuheng Shi, Ziyi Wang </li>
+<li><code class="language-plaintext highlighter-rouge">计算机研究与发展 2025</code><strong><span class='show_paper_citations' data-paper-id='JJEEfUIAAAAJ:KlAtU1dfN6UC'></span></strong>, <a href="https://crad.ict.ac.cn/article/cstr/32373.14.issn1000-1239.202440522">大语言模型知识引导的开放域多标签动作识别</a>, 朱荣江, 石语珩, <strong>杨硕</strong>, 王子奕, 吴心筱 </li>
 <li><code class="language-plaintext highlighter-rouge">SPL 2024</code><strong><span class='show_paper_citations' data-paper-id='JJEEfUIAAAAJ:Se3iqnhoufwC'></span></strong>, <a href="https://ieeexplore.ieee.org/abstract/document/10740465">Source-free Image-text Matching via Uncertainty-aware Learning</a>, Mengxiao Tian, <strong>Shuo Yang</strong>$\dagger$, Xinxiao Wu, Yunde Jia </li>
 <li><code class="language-plaintext highlighter-rouge">PRCV 2024</code><strong><span class='show_paper_citations' data-paper-id='JJEEfUIAAAAJ:roLk4NBRz8UC'></span></strong>, <a href="https://link.springer.com/chapter/10.1007/978-981-97-8620-6_38">Efficient Language-Driven Action Localization by Feature Aggregation and Prediction Adjustment</a>, Zirui Shang, <strong>Shuo Yang</strong>$\dagger$, Xinxiao Wu </li>
 <!-- <li><code class="language-plaintext highlighter-rouge">Arxiv 2024</code><strong><span class='show_paper_citations' data-paper-id='JJEEfUIAAAAJ:LkGwnXOMwfcC'></span></strong>, <a href="https://arxiv.org/abs/2409.12499">End-to-end Open-vocabulary Video Visual Relationship Detection using Multi-modal Prompting</a>, Yongqi Wang, <strong>Shuo Yang</strong>, Xinxiao Wu, Jiebo Luo</li> -->
