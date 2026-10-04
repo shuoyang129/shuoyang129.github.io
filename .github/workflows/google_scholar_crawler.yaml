@@ -14,7 +14,9 @@ jobs:
       run: |
         sudo apt-get install python3-setuptools
     - name: Run
+      id: crawl
       run: |
+        set -euo pipefail
         cd ./google_scholar_crawler
         pip3 install -r requirements.txt
         python3 main.py
@@ -22,6 +24,24 @@ jobs:
           echo "No new citation data produced; skipping push and keeping previous stats."
           exit 0
         fi
+        # Validate data before publishing: valid JSON, positive citation count,
+        # non-empty publications, and both files agree on the count.
+        python3 - <<'EOF'
+        import json, sys
+        with open("results/gs_data.json", encoding="utf-8") as f:
+            data = json.load(f)
+        with open("results/gs_data_shieldsio.json", encoding="utf-8") as f:
+            badge = json.load(f)
+        cited = data.get("citedby")
+        pubs = data.get("publications")
+        if not isinstance(cited, int) or cited <= 0:
+            sys.exit(f"Invalid citedby: {cited!r}")
+        if not isinstance(pubs, dict) or not pubs:
+            sys.exit("Publications missing or empty")
+        if badge.get("message") != str(cited):
+            sys.exit(f"Badge count {badge.get('message')!r} != citedby {cited}")
+        print(f"Validated citation data: citedby={cited}, publications={len(pubs)}")
+        EOF
         cd ./results
         git init
         git config --local user.name "${GITHUB_ACTOR}"
@@ -29,5 +49,31 @@ jobs:
         git add *.json
         git commit -m "Updated Citation Data"
         git push "${remote_repo}" HEAD:google-scholar-stats --force
+        # Only reached when validation and push both succeeded.
+        echo "pushed=true" >> "$GITHUB_OUTPUT"
       env: 
         GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+    - name: Purge jsDelivr cache
+      if: success() && steps.crawl.outputs.pushed == 'true'
+      run: |
+        set -uo pipefail
+        base="gh/${GITHUB_REPOSITORY}@google-scholar-stats"
+        failed=0
+        for f in gs_data.json gs_data_shieldsio.json; do
+          resp=$(curl -fsS --retry 3 --retry-delay 5 "https://purge.jsdelivr.net/${base}/${f}") || { echo "::warning::jsDelivr purge request failed for ${f}"; failed=1; continue; }
+          echo "${f}: ${resp}"
+          if ! echo "${resp}" | grep -q '"status":"finished"'; then
+            echo "::warning::jsDelivr purge not finished for ${f}"
+            failed=1
+          fi
+        done
+        expected=$(cat ./google_scholar_crawler/results/gs_data_shieldsio.json)
+        sleep 10
+        served=$(curl -fsS "https://cdn.jsdelivr.net/${base}/gs_data_shieldsio.json" || true)
+        if [ "${served}" = "${expected}" ]; then
+          echo "jsDelivr now serves the new data: ${served}"
+        else
+          echo "::warning::jsDelivr still serves '${served}', expected '${expected}'"
+          failed=1
+        fi
+        [ "${failed}" -eq 0 ] || echo "::warning::Citation data was pushed, but CDN refresh was incomplete; it will refresh on its own within 12h."
