@@ -68,9 +68,9 @@ excerpt: ""
 <section class="ml-section" id="educations" markdown="0">
 <h2>教育背景</h2>
 <ul class="ml-timeline">
-  <li><span class="ml-when">2018.09 - 2024.06</span><div><div class="ml-where">计算机科学博士，北京理工大学计算机学院</div><div class="ml-note">导师：<a href="https://cs.bit.edu.cn/szdw/jsml/bssds/e33ed58303834b8bacb757f38538e00d.htm">王树良</a>（2018.09 - 2021.06），2021.06 起师从 <a href="https://wuxinxiao.github.io/">吴心筱</a>。</div></div></li>
-  <li><span class="ml-when">2014.09 - 2017.07</span><div><div class="ml-where">计算机科学硕士，中国科学院软件研究所</div><div class="ml-note">导师：<a href="http://www.idengxm.com/">邓小明</a>。</div></div></li>
-  <li><span class="ml-when">2010.09 - 2014.07</span><div><div class="ml-where">计算机科学学士，北京联合大学信息学院。</div></div></li>
+  <li><span class="ml-when">2018.09 - 2024.06</span><div><div class="ml-where">计算机科学与技术博士，北京理工大学计算机学院</div><div class="ml-note">导师：<a href="https://cs.bit.edu.cn/szdw/jsml/bssds/e33ed58303834b8bacb757f38538e00d.htm">王树良</a>（2018.09 - 2021.06），2021.06 起师从 <a href="https://wuxinxiao.github.io/">吴心筱</a>。</div></div></li>
+  <li><span class="ml-when">2014.09 - 2017.07</span><div><div class="ml-where">计算机科学与技术硕士，中国科学院软件研究所</div><div class="ml-note">导师：<a href="http://www.idengxm.com/">邓小明</a>。</div></div></li>
+  <li><span class="ml-when">2010.09 - 2014.07</span><div><div class="ml-where">计算机科学与技术学士，北京联合大学信息学院。</div></div></li>
 </ul>
 </section>
 

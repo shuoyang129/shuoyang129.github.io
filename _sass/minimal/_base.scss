@@ -158,8 +158,13 @@ strong { color: var(--text-strong); font-weight: 600; }
 .ml-affil {
   margin: 0 0 4px;
   font-size: 0.95rem;
-  a { color: var(--text); }
-  a:hover { color: var(--link); }
+  a {
+    color: var(--text);
+    text-decoration: underline dotted;
+    text-decoration-color: var(--muted);
+    text-underline-offset: 3px;
+  }
+  a:hover { color: var(--link); text-decoration-color: currentColor; text-decoration-style: solid; }
 }
 
 .ml-email {
