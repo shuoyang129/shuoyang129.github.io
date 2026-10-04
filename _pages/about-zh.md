@@ -28,6 +28,7 @@ author_profile: true
 # 🔥 学术动态 {#news}
 
 <div class="news-scroll" markdown="1">
+- *2026.10* &nbsp;🎉🎉 <span style="font-style: italic;">语言驱动的动作定位</span> 论文被 <span style="color: #A93226;">IJCV</span> 2026 录用（<span style="color: #A93226;">CCF-A, 中科院一区, JCR Q1, IF=10.3</span>）！
 - *2026.07* &nbsp;🎉🎉 <a href="https://www.sciencedirect.com/science/article/pii/S1077314226002432"><span style="font-style: italic;">开放词汇多标签动作识别</span></a> 论文被 <span style="color: #A93226;">CVIU</span> 2026 录用（<span style="color: #A93226;">CCF-B, JCR Q2, IF=3.6</span>）！
 - *2026.05* &nbsp;🎉🎉 <a href="https://openreview.net/forum?id=tkOMvqB6E9"><span style="font-style: italic;">交互式三维场景定位（3D grounding）框架与数据集</span></a> 论文被 <span style="color: #A93226;">ICML</span> 2026 录用（<span style="color: #A93226;">CCF-A</span>）！
 - *2025.12* &nbsp;🎉🎉 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325016498"><span style="font-style: italic;">无图像多标签图像识别</span></a> 论文被 <span style="color: #A93226;">Pattern Recognition</span> 2026 录用（<span style="color: #A93226;">中科院一区, JCR Q1, IF=7.6</span>）！
