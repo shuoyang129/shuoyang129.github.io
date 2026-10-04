@@ -1,0 +1,466 @@
+/* ==========================================================================
+   Content sections
+   ========================================================================== */
+
+.ml-content {
+  > h2,
+  .ml-section > h2 {
+    margin: 48px 0 18px;
+    padding-bottom: 8px;
+    color: var(--theme);
+    font-family: var(--serif);
+    font-size: 1.75rem;
+    font-weight: 600;
+    line-height: 1.2;
+    border-bottom: 1px solid var(--line);
+    scroll-margin-top: 24px;
+  }
+
+  > h2:first-child,
+  .ml-section:first-child > h2 { margin-top: 0; }
+
+  p { margin: 0 0 14px; }
+}
+
+/* ---------- About ---------- */
+.ml-about p { text-align: justify; text-justify: inter-ideograph; }
+.ml-about > p, .ml-about .ml-focus li { color: var(--text-strong); }
+.ml-about .ml-focus li::before { background: var(--text-strong); }
+
+.ml-focus {
+  margin: 0 0 14px;
+  padding: 0;
+  list-style: none;
+
+  li {
+    position: relative;
+    margin: 0 0 6px;
+    padding-left: 18px;
+    line-height: 1.6;
+
+    &::before {
+      content: "";
+      position: absolute;
+      left: 2px;
+      top: 0.68em;
+      width: 7px;
+      height: 7px;
+      background: var(--ring);
+      border-radius: 50%;
+    }
+  }
+
+  b { color: var(--text-strong); font-weight: 600; }
+}
+
+.ml-interests {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 0 0 16px;
+  padding: 0;
+  list-style: none;
+
+  li {
+    padding: 4px 12px;
+    color: var(--theme);
+    font-size: 0.86rem;
+    background: var(--bg-soft);
+    border: 1px solid var(--line);
+    border-radius: 999px;
+  }
+}
+
+.ml-contact {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 10px;
+  margin: 16px 0 0;
+}
+
+.ml-contact__label {
+  margin-right: 2px;
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.ml-contact__item {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  max-width: 100%;
+  padding: 5px 6px 5px 12px;
+  color: var(--text-strong);
+  font-family: var(--mono);
+  font-size: 0.85rem;
+  background: var(--bg);
+  border: 1px solid var(--panel-border);
+  border-radius: 999px;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease, color 0.2s ease;
+
+  svg { flex: 0 0 auto; color: var(--accent); }
+  span { overflow-wrap: anywhere; }
+
+  em {
+    padding: 1px 8px;
+    color: var(--accent);
+    font-family: var(--sans);
+    font-size: 0.72rem;
+    font-style: normal;
+    font-weight: 600;
+    background: var(--accent-soft);
+    border-radius: 999px;
+  }
+
+  &:hover {
+    color: var(--accent);
+    text-decoration: none;
+    border-color: var(--accent);
+    box-shadow: 0 2px 8px var(--accent-soft);
+  }
+}
+
+.ml-recruit {
+  margin: 18px 0 0;
+  padding: 12px 16px;
+  color: var(--text-strong);
+  background: var(--bg-soft);
+  border-left: 3px solid var(--hl);
+  border-radius: 0 8px 8px 0;
+
+  strong { color: var(--hl); }
+}
+
+/* ---------- News ---------- */
+.ml-news {
+  max-height: 340px;
+  overflow-y: auto;
+  padding-right: 6px;
+  scrollbar-width: thin;
+  scrollbar-color: var(--line) transparent;
+
+  ul { margin: 0; padding: 0; list-style: none; }
+
+  /* Date is pinned to the left; the rest of the item flows as normal inline text. */
+  li {
+    position: relative;
+    padding: 7px 0 7px 84px;
+    font-size: 0.95rem;
+    line-height: 1.6;
+    border-bottom: 1px dashed var(--line);
+
+    &:last-child { border-bottom: 0; }
+
+    > em:first-child {
+      position: absolute;
+      left: 0;
+      top: 7px;
+      color: var(--theme);
+      font-family: var(--mono);
+      font-size: 0.85rem;
+      font-style: normal;
+      font-weight: 600;
+      line-height: 1.85;
+    }
+  }
+
+  .venue { color: var(--hl); font-weight: 600; }
+  .rank { color: var(--muted); font-size: 0.88em; }
+}
+
+/* ---------- Publications ---------- */
+.ml-pub-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 16px;
+  margin: -4px 0 20px;
+  color: var(--muted);
+  font-size: 0.88rem;
+
+  img { display: block; height: 20px; }
+}
+
+.ml-pubs {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+/* Thumbnail + text side by side. Flex (not grid) so that any element a browser
+   extension injects between them simply sits inline instead of adding rows. */
+.ml-pub {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  padding: 16px 0;
+  border-bottom: 1px solid var(--line);
+
+  &:first-child { padding-top: 2px; }
+  &:last-child { border-bottom: 0; }
+
+  > :not(.ml-pub__thumb):not(.ml-pub__body) { display: none !important; }
+}
+
+.ml-pub__thumb {
+  position: relative;
+  display: block;
+  flex: 0 0 200px;
+  width: 200px;
+  overflow: hidden;
+  aspect-ratio: 16 / 10;
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+
+  img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    transition: transform 0.35s ease;
+  }
+
+  &:hover img { transform: scale(1.04); }
+}
+
+.ml-badge {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  padding: 2px 8px;
+  color: #fff;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  line-height: 1.6;
+  background: var(--badge-bg);
+  border-radius: 3px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.ml-pub__body { flex: 1 1 auto; min-width: 0; }
+
+/* Compact vertical rhythm inside a paper (beats the generic `.ml-content p` margin) */
+.ml-content .ml-pub__body {
+  > p { margin: 0; }
+  .ml-pub__title { margin-bottom: 3px; }
+  .ml-pub__authors { margin-bottom: 1px; }
+  .ml-pub__venue { margin-bottom: 7px; }
+}
+
+.ml-pub__title {
+  margin: 0 0 4px;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.4;
+
+  a { color: var(--text-strong); }
+  a:hover { color: var(--link); }
+}
+
+.ml-pub__authors {
+  margin: 0 0 2px;
+  font-size: 0.9rem;
+  line-height: 1.5;
+
+  strong { border-bottom: 1px solid currentColor; }
+}
+
+.ml-pub__venue {
+  margin: 0 0 8px;
+  color: var(--muted);
+  font-size: 0.87rem;
+  line-height: 1.5;
+  font-style: italic;
+
+  b { color: var(--text-strong); font-style: normal; font-weight: 600; }
+}
+
+.ml-pub__links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+
+  a, button {
+    padding: 0 9px;
+    color: var(--text);
+    font-family: inherit;
+    font-size: 0.76rem;
+    line-height: 1.75;
+    background: transparent;
+    border: 1px solid var(--btn-border);
+    border-radius: 4px;
+    cursor: pointer;
+    transition: color 0.15s ease, border-color 0.15s ease;
+
+    &:hover {
+      color: var(--theme);
+      text-decoration: none;
+      border-color: var(--theme);
+    }
+  }
+
+}
+
+/* Citation count shown right after the paper title, e.g. "Citations: 19" */
+.ml-content .show_paper_citations {
+  margin-left: 8px;
+  color: #5f6b7a;
+  font-family: var(--sans);
+  font-size: 0.8em;
+  font-weight: 500;
+  white-space: nowrap;
+
+  &:empty { display: none; }
+}
+
+[data-theme="dark"] .ml-content .show_paper_citations { color: #9aa4b2; }
+
+/* Text-only papers: citation count trails the entry after a separator.
+   The separator lives in ::before so it disappears with an empty count. */
+.ml-content .ml-pubs-compact .show_paper_citations {
+  margin-left: 0;
+
+  &::before {
+    content: "|";
+    margin: 0 8px;
+    color: var(--muted);
+    opacity: 0.55;
+    font-weight: 400;
+  }
+}
+
+.ml-bibtex {
+  display: none;
+  margin: 10px 0 0;
+  padding: 10px 12px;
+  overflow-x: auto;
+  color: var(--text);
+  font-family: var(--mono);
+  font-size: 0.75rem;
+  line-height: 1.5;
+  white-space: pre;
+  background: var(--bg-soft);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+
+  &.is-open { display: block; }
+}
+
+/* "More publications" compact list */
+/* "Show N more" sits on a centred divider line that closes the list */
+.ml-more {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin: 20px 0 0;
+
+  &::before, &::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: var(--line);
+  }
+}
+
+.ml-more-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 5px 16px;
+  color: var(--theme);
+  font-family: inherit;
+  font-size: 0.85rem;
+  font-weight: 500;
+  white-space: nowrap;
+  background: var(--bg);
+  border: 1px solid var(--btn-border);
+  border-radius: 999px;
+  cursor: pointer;
+  transition: color 0.15s ease, border-color 0.15s ease, background-color 0.15s ease;
+
+  &:hover {
+    border-color: var(--theme);
+    background: color-mix(in srgb, var(--theme) 8%, transparent);
+  }
+
+  &:focus-visible { outline: 2px solid var(--theme); outline-offset: 2px; }
+}
+
+.ml-more-toggle__icon { transition: transform 0.25s ease; }
+.ml-more-toggle[aria-expanded="true"] .ml-more-toggle__icon { transform: rotate(180deg); }
+
+.ml-pubs-compact[hidden], .ml-pub[hidden] { display: none !important; }
+
+.ml-pubs-compact {
+  margin: 22px 0 0;
+  padding: 14px 0 0;
+  border-top: 1px solid var(--line);
+  list-style: none;
+
+  li {
+    padding: 8px 0;
+    font-size: 0.92rem;
+    line-height: 1.6;
+    border-bottom: 1px dashed var(--line);
+
+    &:last-child { border-bottom: 0; }
+  }
+
+  .ml-tag {
+    display: inline-block;
+    margin-right: 6px;
+    padding: 0 7px;
+    color: #fff;
+    font-size: 0.72rem;
+    font-weight: 700;
+    line-height: 1.7;
+    background: var(--badge-bg);
+    border-radius: 3px;
+    vertical-align: 1px;
+  }
+
+}
+
+/* ---------- Education / Experience timeline ---------- */
+.ml-timeline {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+  li {
+    display: grid;
+    grid-template-columns: 150px minmax(0, 1fr);
+    gap: 16px;
+    padding: 10px 0;
+    border-bottom: 1px dashed var(--line);
+
+    &:last-child { border-bottom: 0; }
+  }
+
+  .ml-when {
+    color: var(--theme);
+    font-family: var(--mono);
+    font-size: 0.85rem;
+    font-weight: 600;
+    line-height: 1.9;
+  }
+
+  .ml-what {
+    color: var(--text-strong);
+    font-weight: 500;
+  }
+
+  .ml-where { color: var(--text); font-size: 0.93rem; }
+  .ml-note { color: var(--muted); font-size: 0.88rem; }
+}
+
+/* MathJax inline symbols should not shift line height */
+mjx-container[jax="CHTML"][display="false"] { margin: 0 1px; }

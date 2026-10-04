@@ -1,0 +1,223 @@
+# Single source of truth for publications (used by both /en and /zh pages).
+# authors: use <b>Shuo Yang</b> for self, <sup>*</sup> equal contribution, <sup>†</sup> corresponding.
+# selected: true -> shown with thumbnail; false -> compact "more" list.
+
+- badge: ICML 2026
+  title: "AmbiRefer3D: 3D Visual Grounding with Referential Ambiguity"
+  url: https://openreview.net/forum?id=tkOMvqB6E9
+  authors: "Rongjiang Zhu<sup>*</sup>, Wei Kang<sup>*</sup>, Zeqi Liu, Junyu Chen, <b>Shuo Yang</b><sup>†</sup>, Xinxiao Wu<sup>†</sup>"
+  venue: International Conference on Machine Learning
+  venue_short: ICML
+  year: 2026
+  thumb: /images/ICML2026.jpg
+  scholar: "JJEEfUIAAAAJ:kNdYIx-mwKoC"
+  selected: true
+  links:
+    - { name: Paper, url: "https://openreview.net/forum?id=tkOMvqB6E9" }
+    - { name: Project, url: "https://yearnallover.github.io/ambirefer/" }
+  bib: /images/ICML2026.bib
+
+- badge: PR 2026
+  title: "Image-free Multi-label Image Recognition via LLM-powered Hierarchical Prompt Tuning"
+  url: https://www.sciencedirect.com/science/article/abs/pii/S0031320325016498
+  authors: "<b>Shuo Yang</b><sup>†</sup>, Zirui Shang, Yongqi Wang, Derong Deng, Hongwei Chen, Xinxiao Wu, Qiyuan Cheng"
+  venue: Pattern Recognition
+  venue_short: PR
+  year: 2026
+  thumb: /images/PR2026.jpg
+  scholar: "JJEEfUIAAAAJ:8k81kl-MbHgC"
+  selected: true
+  links:
+    - { name: Paper, url: "/images/PR2026.pdf" }
+    - { name: Code, url: "https://github.com/shuoyang129/image-free-multi-label-image-recognition" }
+  bib: /images/PR2026.bib
+
+- badge: ICCV 2025
+  title: "LLM-enhanced Action-aware Multi-modal Prompt Tuning for Image-Text Matching"
+  url: https://openaccess.thecvf.com/content/ICCV2025/papers/Tian_LLM-enhanced_Action-aware_Multi-modal_Prompt_Tuning_for_Image-Text_Matching_ICCV_2025_paper.pdf
+  authors: "Mengxiao Tian, Xinxiao Wu, <b>Shuo Yang</b><sup>†</sup>"
+  venue: International Conference on Computer Vision
+  venue_short: ICCV
+  year: 2025
+  thumb: /images/ICCV2025.png
+  scholar: "JJEEfUIAAAAJ:0EnyYjriUFMC"
+  selected: true
+  links:
+    - { name: Paper, url: "https://arxiv.org/abs/2506.23502" }
+    - { name: Code, url: "https://github.com/Mengxiao-Tian/LAMP" }
+  bib: /images/ICCV2025.bib
+
+- badge: IJCAI 2025
+  title: "METOR: A Unified Framework for Mutual Enhancement of Objects and Relationships in Open-vocabulary Video Visual Relationship Detection"
+  url: https://www.ijcai.org/proceedings/2025/0223.pdf
+  authors: "Yongqi Wang, Xinxiao Wu, <b>Shuo Yang</b><sup>†</sup>"
+  venue: International Joint Conference on Artificial Intelligence
+  venue_short: IJCAI
+  year: 2025
+  thumb: /images/IJCAI2025.png
+  scholar: "JJEEfUIAAAAJ:hqOjcs7Dif8C"
+  selected: true
+  links:
+    - { name: Paper, url: "https://arxiv.org/abs/2505.06663" }
+    - { name: Code, url: "https://github.com/wangyongqi558/METOR" }
+
+- badge: TPAMI 2025
+  title: "End-to-end Open-vocabulary Video Visual Relationship Detection using Multi-modal Prompting"
+  url: https://ieeexplore.ieee.org/abstract/document/10966052
+  authors: "Yongqi Wang, Xinxiao Wu, <b>Shuo Yang</b>, Jiebo Luo"
+  venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+  venue_short: TPAMI
+  year: 2025
+  thumb: /images/TPAMI2025.png
+  scholar: "JJEEfUIAAAAJ:LkGwnXOMwfcC"
+  selected: true
+  links:
+    - { name: Paper, url: "https://arxiv.org/abs/2409.12499" }
+    - { name: Code, url: "https://github.com/wangyongqi558/EOV-MMP-VidVRD" }
+  bib: /images/TPAMI2025.bib
+
+- badge: AAAI 2025
+  title: "Video Summarization using Denoising Diffusion Probabilistic Model"
+  url: https://ojs.aaai.org/index.php/AAAI/article/view/32727
+  authors: "Zirui Shang, Yubo Zhu, Hongxi Li, <b>Shuo Yang</b>, Xinxiao Wu"
+  venue: AAAI Conference on Artificial Intelligence
+  venue_short: AAAI
+  year: 2025
+  thumb: /images/AAAI2025.png
+  scholar: "JJEEfUIAAAAJ:UebtZRa9Y70C"
+  selected: true
+  links:
+    - { name: Paper, url: "https://ojs.aaai.org/index.php/AAAI/article/view/32727" }
+  bib: /images/AAAI2025.bib
+
+- badge: TMM 2024
+  title: "Dynamic Pathway for Query-Aware Feature Learning in Language-Driven Action Localization"
+  url: https://ieeexplore.ieee.org/document/10449438
+  authors: "<b>Shuo Yang</b>, Xinxiao Wu, Zirui Shang, Jiebo Luo"
+  venue: IEEE Transactions on Multimedia
+  venue_short: TMM
+  year: 2024
+  thumb: /images/TMM24.png
+  scholar: "JJEEfUIAAAAJ:eQOLeE2rZwMC"
+  selected: true
+  links:
+    - { name: Paper, url: "/images/TMM24.pdf" }
+  bib: /images/TMM24.bib
+
+- badge: AAAI 2024
+  title: "Multi-Modal Prompting for Open-Vocabulary Video Visual Relationship Detection"
+  url: https://ojs.aaai.org/index.php/AAAI/article/view/28472
+  authors: "<b>Shuo Yang</b><sup>*</sup>, Yongqi Wang<sup>*</sup>, Xiaofeng Ji, Xinxiao Wu"
+  venue: AAAI Conference on Artificial Intelligence
+  venue_short: AAAI
+  year: 2024
+  thumb: /images/AAAI24.png
+  scholar: "JJEEfUIAAAAJ:_FxGoFyzp5QC"
+  selected: true
+  links:
+    - { name: Paper, url: "https://ojs.aaai.org/index.php/AAAI/article/view/28472/28919" }
+    - { name: Code, url: "https://github.com/wangyongqi558/MMP_OV_VidVRD" }
+  bib: /images/AAAI24.bib
+
+- badge: ACM MM 2023
+  title: "Probability Distribution Based Frame-supervised Language-driven Action Localization"
+  url: https://dl.acm.org/doi/10.1145/3581783.3612512
+  authors: "<b>Shuo Yang</b>, Zirui Shang, Xinxiao Wu"
+  venue: ACM International Conference on Multimedia
+  venue_short: ACM MM
+  year: 2023
+  thumb: /images/MM23.png
+  scholar: "JJEEfUIAAAAJ:YsMSGLbcyi4C"
+  selected: true
+  links:
+    - { name: Paper, url: "/images/MM23.pdf" }
+    - { name: Code, url: "https://github.com/shuoyang129/Distrbution-based-Frame-Supervised-LDAL" }
+  bib: /images/MM23.bib
+
+- badge: IJCAI 2022
+  title: "Entity-aware and Motion-aware Transformers for Language-driven Action Localization"
+  url: https://www.ijcai.org/proceedings/2022/0216.pdf
+  authors: "<b>Shuo Yang</b>, Xinxiao Wu"
+  venue: International Joint Conference on Artificial Intelligence
+  venue_short: IJCAI
+  year: 2022
+  thumb: /images/IJCAI22.png
+  scholar: "JJEEfUIAAAAJ:ufrVoPGSRksC"
+  selected: true
+  links:
+    - { name: Paper, url: "https://www.ijcai.org/proceedings/2022/0216.pdf" }
+    - { name: Code, url: "https://github.com/shuoyang129/EAMAT/" }
+  bib: /images/IJCAI22.bib
+
+- badge: CVPR 2020
+  title: "High-Order Information Matters: Learning Relation and Topology for Occluded Person Re-Identification"
+  url: https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_High-Order_Information_Matters_Learning_Relation_and_Topology_for_Occluded_Person_CVPR_2020_paper.pdf
+  authors: "Guan'an Wang<sup>*</sup>, <b>Shuo Yang</b><sup>*</sup>, Huanyu Liu, Zhicheng Wang, Yang Yang, Shuliang Wang, Gang Yu, Jian Sun"
+  venue: IEEE Conference on Computer Vision and Pattern Recognition
+  venue_short: CVPR
+  year: 2020
+  thumb: /images/CVPR20.png
+  scholar: "JJEEfUIAAAAJ:9yKSN-GCB0IC"
+  selected: true
+  links:
+    - { name: Paper, url: "https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_High-Order_Information_Matters_Learning_Relation_and_Topology_for_Occluded_Person_CVPR_2020_paper.pdf" }
+    - { name: Code, url: "https://github.com/wangguanan/HOReID/" }
+  bib: /images/CVPR20.bib
+
+- badge: TIP 2018
+  title: "Joint Hand Detection and Rotation Estimation Using CNN"
+  url: https://ieeexplore.ieee.org/document/8128503
+  authors: "Xiaoming Deng, Yinda Zhang, <b>Shuo Yang</b>, Ping Tan, Liang Chang, Ye Yuan, Hongan Wang"
+  venue: IEEE Transactions on Image Processing
+  venue_short: TIP
+  year: 2018
+  thumb: /images/TIP18.png
+  scholar: "JJEEfUIAAAAJ:u-x6o8ySG0sC"
+  selected: true
+  links:
+    - { name: Paper, url: "/images/TIP18.pdf" }
+    - { name: Project, url: "http://www.idengxm.com/handdetection/index.html" }
+  bib: /images/TIP18.bib
+
+# ---------- Compact list (no thumbnail) ----------
+- badge: CVIU 2026
+  title: "Open-vocabulary multi-label action recognition in movies via LLM-enhanced prompt tuning"
+  url: https://www.sciencedirect.com/science/article/pii/S1077314226002432
+  authors: "Rongjiang Zhu, Xinxiao Wu, <b>Shuo Yang</b><sup>†</sup>, Yuheng Shi, Ziyi Wang"
+  scholar: "JJEEfUIAAAAJ:3fE2CSJIrl8C"
+  selected: false
+
+- badge: 计算机研究与发展 2025
+  title: "大语言模型知识引导的开放域多标签动作识别"
+  url: https://crad.ict.ac.cn/article/cstr/32373.14.issn1000-1239.202440522
+  authors: "朱荣江, 石语珩, <b>杨硕</b>, 王子奕, 吴心筱"
+  scholar: "JJEEfUIAAAAJ:KlAtU1dfN6UC"
+  selected: false
+
+- badge: SPL 2024
+  title: "Source-free Image-text Matching via Uncertainty-aware Learning"
+  url: https://ieeexplore.ieee.org/abstract/document/10740465
+  authors: "Mengxiao Tian, <b>Shuo Yang</b><sup>†</sup>, Xinxiao Wu, Yunde Jia"
+  scholar: "JJEEfUIAAAAJ:Se3iqnhoufwC"
+  selected: false
+
+- badge: PRCV 2024
+  title: "Efficient Language-Driven Action Localization by Feature Aggregation and Prediction Adjustment"
+  url: https://link.springer.com/chapter/10.1007/978-981-97-8620-6_38
+  authors: "Zirui Shang, <b>Shuo Yang</b><sup>†</sup>, Xinxiao Wu"
+  scholar: "JJEEfUIAAAAJ:roLk4NBRz8UC"
+  selected: false
+
+- badge: arXiv 2017
+  title: "Hand3D: Hand Pose Estimation using 3D Neural Network"
+  url: https://arxiv.org/pdf/1704.02224.pdf
+  authors: "Xiaoming Deng<sup>*</sup>, <b>Shuo Yang</b><sup>*</sup>, Yinda Zhang<sup>*</sup>, Ping Tan, Liang Chang, Hongan Wang"
+  scholar: "JJEEfUIAAAAJ:d1gkVwhDpl0C"
+  selected: false
+
+- badge: Acta Automatica Sinica 2016
+  title: "Convolutional neural networks in image understanding"
+  url: https://faculty.csu.edu.cn/_resources/group1/M00/00/67/wKiylWIpceKAYBdpAA4EeS6lmws466.pdf
+  authors: "Liang Chang, Xiaoming Deng, Mingquan Zhou, Zhongke Wu, Ye Yuan, <b>Shuo Yang</b>, Hongan Wang"
+  scholar: "JJEEfUIAAAAJ:qjMakFHDy7sC"
+  selected: false

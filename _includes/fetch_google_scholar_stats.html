@@ -7,14 +7,21 @@
       if (!paperId) return;
       try {
         var entry = pubs[paperId];
+        var modern = !!el.closest('.ml-content');
         if (!entry || typeof entry.num_citations === 'undefined') {
-          el.textContent = '| Citations: —';
+          el.textContent = modern ? '' : '| Citations: —';
           return;
         }
-        el.textContent = '| Citations: ' + entry.num_citations;
+        if (!modern) {
+          el.textContent = '| Citations: ' + entry.num_citations;
+          return;
+        }
+        // Plain text after the title, e.g. "Citations: 19" / "引用：19"
+        var zh = document.documentElement.lang === 'zh-CN';
+        el.textContent = (zh ? '引用：' : 'Citations: ') + entry.num_citations;
       } catch (e) {
         console.warn('Citation span failed for', paperId, e);
-        el.textContent = '| Citations: —';
+        el.textContent = el.closest('.ml-content') ? '' : '| Citations: —';
       }
     });
   }

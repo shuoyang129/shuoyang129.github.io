@@ -1,0 +1,17 @@
+{% assign p = include.p %}
+<li class="ml-pub"{% if include.hidden and include.hidden >= include.step %} hidden{% endif %}>
+  <a class="ml-pub__thumb" href="{{ p.url }}" tabindex="-1" aria-hidden="true">
+    <span class="ml-badge">{{ p.badge }}</span>
+    <img src="{{ p.thumb | relative_url }}" alt="" loading="lazy">
+  </a>
+  <div class="ml-pub__body">
+    <p class="ml-pub__title"><a href="{{ p.url }}">{{ p.title }}</a>{% if p.scholar %}<span class="show_paper_citations" data-paper-id="{{ p.scholar }}"></span>{% endif %}</p>
+    <p class="ml-pub__authors">{{ p.authors }}</p>
+    <p class="ml-pub__venue">{{ p.venue }} (<b>{{ p.venue_short }}</b>), {{ p.year }}</p>
+    <div class="ml-pub__links">
+      {% for l in p.links %}<a href="{{ l.url }}">{{ l.name }}</a>{% endfor %}
+      {% if p.bib %}<button type="button" data-bib="{{ p.bib | relative_url }}" aria-expanded="false">BibTeX</button>{% endif %}
+    </div>
+    {% if p.bib %}<pre class="ml-bibtex"></pre>{% endif %}
+  </div>
+</li>

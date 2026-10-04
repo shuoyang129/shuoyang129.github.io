@@ -1,0 +1,31 @@
+{% assign zh = include.zh %}
+{% assign step = include.step | default: 5 %}
+{% assign selected = site.data.publications | where: "selected", true %}
+{% assign compact = site.data.publications | where: "selected", false %}
+
+{% comment %}
+  Selected papers (with thumbnails) are revealed `step` at a time.
+  Text-only papers stay hidden until the last batch of selected papers is shown.
+{% endcomment %}
+
+<ol class="ml-pubs" id="ml-pubs-selected" data-step="{{ step }}">
+{% for p in selected %}{% include publication-item.html p=p hidden=forloop.index0 step=step %}{% endfor %}
+</ol>
+
+<ul class="ml-pubs-compact" id="ml-pubs-compact"{% if selected.size > step %} hidden{% endif %}>
+{% for p in compact %}
+  <li>
+    <span class="ml-tag">{{ p.badge }}</span>
+    <a href="{{ p.url }}">{{ p.title }}</a>.
+    {{ p.authors }}{% if p.scholar %}<span class="show_paper_citations" data-paper-id="{{ p.scholar }}"></span>{% endif %}
+  </li>
+{% endfor %}
+</ul>
+
+{% if selected.size > step %}
+<div class="ml-more">
+  <button type="button" class="ml-more-toggle" aria-controls="ml-pubs-selected" data-extra="ml-pubs-compact" aria-expanded="false"
+    data-more="{% if zh %}查看更多论文{% else %}Show more{% endif %}"
+    data-less="{% if zh %}收起{% else %}Show less{% endif %}"><span class="ml-more-toggle__label">{% if zh %}查看更多论文{% else %}Show more{% endif %}</span><svg class="ml-more-toggle__icon" viewBox="0 0 16 16" width="12" height="12" aria-hidden="true"><path d="M3.5 6l4.5 4.5L12.5 6" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+</div>
+{% endif %}

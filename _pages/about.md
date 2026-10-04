@@ -1,10 +1,10 @@
 ---
 permalink: /
 lang: en
+layout: minimal
 title: ""
 excerpt: ""
-author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -16,253 +16,72 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
-
-My primary research focuses on the intersection of vision and language. Currently, I am exploring the tasks involving vision, language, and robotics, such as language-driven video understanding, open-vocabulary image/video understanding, and interactional robots. Previously, my work centered on hand detection, hand pose estimation, face recognition, and person re-identification.
-
-<span style="color: #0d0dff;">Welcome students who are interested in the research of **vision and language**, **intelligent robots** to join us!</span>
-
-You can contact me via e-mail: yangshuo@smbu.edu.cn; yangshuo129@gmail.com.
-<!-- All of my publications can be found at Google Scholar <a href='https://scholar.google.com/citations?user=JJEEfUIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"/></a> -->
-<!-- Additionally, I maintain a keen interest in 3D vision encompassing reconstruction and understanding of 3D scenes. -->
-
-<!-- I have published about 10 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
-
-# 🔥 News {#news}
-
-<div class="news-scroll" markdown="1">
-- *2026.10* &nbsp;🎉🎉 A <span style="font-style: italic;">language-driven action localization</span> paper is accepted by <span style="color: #A93226;">IJCV</span> 2026 (<span style="color: #A93226;">CCF-A, 中科院一区, JCR Q1, IF=10.3</span>)!
-- *2026.07* &nbsp;🎉🎉 An <a href="https://www.sciencedirect.com/science/article/pii/S1077314226002432"><span style="font-style: italic;">open-vocabulary multi-label action recognition</span></a> paper is accepted by <span style="color: #A93226;">CVIU</span> 2026 (<span style="color: #A93226;">CCF-B, JCR Q2, IF=3.6</span>)!
-- *2026.05* &nbsp;🎉🎉 An <a href="https://openreview.net/forum?id=tkOMvqB6E9"><span style="font-style: italic;">interactive 3D grounding framework and dataset</span></a> paper is accepted by <span style="color: #A93226;">ICML</span> 2026 (<span style="color: #A93226;">CCF-A</span> conference)!
-- *2025.12* &nbsp;🎉🎉 An <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325016498"><span style="font-style: italic;">image-free multi-label image recognition</span></a> paper is accepted by <span style="color: #A93226;">Pattern Recognition</span> 2026 (<span style="color: #A93226;">中科院一区, JCR Q1, IF=7.6</span>)! 
-- *2025.06* &nbsp;🎉🎉 An <a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Tian_LLM-enhanced_Action-aware_Multi-modal_Prompt_Tuning_for_Image-Text_Matching_ICCV_2025_paper.pdf"><span style="font-style: italic;">image-text matching</span></a> paper is accepted by <span style="color: #A93226;">ICCV</span> 2025 (<span style="color: #A93226;">CCF-A</span> conference)!
-- *2025.04* &nbsp;🎉🎉 A <a href="https://www.ijcai.org/proceedings/2025/0223.pdf"><span style="font-style: italic;">video visual relationship detection</span></a> paper is accepted by <span style="color: #A93226;">IJCAI</span> 2025 (<span style="color: #A93226;">CCF-A</span> conference)!
-- *2025.04* &nbsp;🎉🎉 A <a href="https://ieeexplore.ieee.org/abstract/document/10966052/"><span style="font-style: italic;">video visual relationship detection</span></a> paper is accepted by <span style="color: #A93226;">IEEE TPAMI</span> 2025 (<span style="color: #A93226;">CCF-A, 中科院一区, JCR Q1, IF=20.8</span>)!
-- *2025.01* &nbsp;🎉🎉 An <a href="https://crad.ict.ac.cn/article/cstr/32373.14.issn1000-1239.202440522"><span style="font-style: italic;">open-vocabulary multi-label action classification</span></a> paper is published in <span style="color: #A93226;">《计算机研究与发展》</span> 2025 (CCF-A Chinese, IF=2.65)! 
-- *2024.12* &nbsp;🎉🎉 A <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32727"><span style="font-style: italic;">video Summarization </span></a> paper is accepted by <span style="color: #A93226;">AAAI</span> 2025 (<span style="color: #A93226;">CCF-A</span> conference)!
-- *2024.10* &nbsp;🎉🎉 An <a href="https://ieeexplore.ieee.org/abstract/document/10740465"><span style="font-style: italic;">image-text matching</span></a> paper is accepted by <span style="color: #A93226;">IEEE Signal Processing Letter</span> 2024 (<span style="color: #A93226;">JCR Q2, 中科院三区, IF=3.2</span>)!
-- *2024.10* &nbsp;🎉🎉 A <a href="https://link.springer.com/chapter/10.1007/978-981-97-8620-6_38"><span style="font-style: italic;"> language-driven action localization</span></a> paper is accepted by <span style="color: #A93226;">PRCV</span> 2024 (CCF-C conference) !
-- *2024.06* &nbsp;😊😊 I graduated from Beijing Institute of Technology (北京理工大学) and got a position as an Associate Professor at <a href="https://www.smbu.edu.cn/info/5731/106871.htm"> Shenzhen MSU-BIT University (深圳北理莫斯科大学)! </a>
-- *2024.02*: &nbsp;🎉🎉 A <a href="https://ieeexplore.ieee.org/document/10449438"><span style="font-style: italic;">language-driven action localization</span></a> paper is accepted by <span style="color: #A93226;">IEEE TMM</span> 2024 (<span style="color: #A93226;">中科院一区, JCR Q1, IF=7.3</span>)! 
-- *2023.12*: &nbsp;🎉🎉 A <a href="https://ojs.aaai.org/index.php/AAAI/article/view/28472"><span style="font-style: italic;">video visual relationship detection</span></a> paper is accepted by <span style="color: #A93226;">AAAI</span> 2024 (<span style="color: #A93226;">CCF-A</span> conference)!
-- *2023.07*: &nbsp;🎉🎉 A <a href="https://dl.acm.org/doi/10.1145/3581783.3612512"><span style="font-style: italic;">frame-supervised language-driven action localization</span></a> paper is accepted by <span style="color: #A93226;">ACM MM</span> 2023 (<span style="color: #A93226;">CCF-A</span> conference)!
-- *2022.04*: &nbsp;🎉🎉 A <a href="http://arxiv.org/abs/2205.05854"><span style="font-style: italic;"> language-driven action localization</span></a> paper is accepted by <span style="color: #A93226;">IJCAI</span> 2022 (<span style="color: #A93226;">CCF-A</span> conference)!
-- *2021.06*: &nbsp;😊😊 I attend a new research group under supervised by Prof.<a href="https://wuxinxiao.github.io/">Xinxiao Wu.</a>
-- *2020.03*: &nbsp;🎉🎉 A <a href="https://arxiv.org/abs/2003.08177"><span style="font-style: italic;">person re-identification</span></a> paper is accepted by <span style="color: #A93226;">CVPR</span> 2020 (<span style="color: #A93226;">CCF-A</span> conference)!
-</div>
-
-# 📝 Publications {#publications}
-<a href="https://scholar.google.com/citations?user=JJEEfUIAAAAJ" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar citations"/></a> &emsp; ($\ast$ means equal contribution, $\dagger$ means corresponding author)
-
-<div class="publications-wrap">
-
-<!-- --------------------------------------------------------------------------------------------------------- -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='/images/ICML2026.jpg' alt="sym" width="100%" height="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[AmbiRefer3D: 3D Visual Grounding with Referential Ambiguity](https://openreview.net/forum?id=tkOMvqB6E9)
-<strong><span class='show_paper_citations' data-paper-id='JJEEfUIAAAAJ:kNdYIx-mwKoC'></span></strong>
-
-- Rongjiang Zhu$\ast$, Wei Kang$\ast$, Zeqi Liu, Junyu Chen, **Shuo Yang**$\dagger$, Xinxiao Wu$\dagger$
-- *International Conference on Machine Learning (ICML), 2026.*
-  
-  [[Paper]](https://openreview.net/forum?id=tkOMvqB6E9) [[BibTex]](/images/ICML2026.bib) [[Project]](https://yearnallover.github.io/ambirefer/)
-</div>
-</div>
-
-<!-- --------------------------------------------------------------------------------------------------------- -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2026</div><img src='/images/PR2026.jpg' alt="sym" width="100%" height="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Image-free Multi-label Image Recognition via LLM-powered Hierarchical Prompt Tuning](https://www.sciencedirect.com/science/article/abs/pii/S0031320325016498)
-<strong><span class='show_paper_citations' data-paper-id='JJEEfUIAAAAJ:8k81kl-MbHgC'></span></strong>
-
-- <strong>Shuo Yang</strong>$\dagger$, Zirui Shang, Yongqi Wang, Derong Deng, Hongwei Chen, Xinxiao Wu， Qiyuan Cheng
-- *Pattern Recognition (PR), 2026.*
-  
-  [[Paper]](/images/PR2026.pdf) [[BibTex]](/images/PR2026.bib) [[Code]](https://github.com/shuoyang129/image-free-multi-label-image-recognition)
-</div>
-</div>
-
-<!-- --------------------------------------------------------------------------------------------------------- -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='/images/ICCV2025.png' alt="sym" width="100%" height="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[LLM-enhanced Action-aware Multi-modal Prompt Tuning for Image-Text Matching](https://openaccess.thecvf.com/content/ICCV2025/papers/Tian_LLM-enhanced_Action-aware_Multi-modal_Prompt_Tuning_for_Image-Text_Matching_ICCV_2025_paper.pdf)
-<strong><span class='show_paper_citations' data-paper-id='JJEEfUIAAAAJ:0EnyYjriUFMC'></span></strong>
-
-- Mengxiao Tian, Xinxiao Wu, <strong>Shuo Yang</strong>$\dagger$
-- *International Conference on Computer Vision (ICCV), 2025.*
-  
-  [[Paper]](https://arxiv.org/abs/2506.23502) [[BibTex]](/images/ICCV2025.bib) [[Code]](https://github.com/Mengxiao-Tian/LAMP)
-</div>
-</div>
-
-<!-- --------------------------------------------------------------------------------------------------------- -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='/images/IJCAI2025.png' alt="sym" width="100%" height="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[METOR: A Unified Framework for Mutual Enhancement of Objects and Relationships in Open-vocabulary Video Visual Relationship Detection
-](https://www.ijcai.org/proceedings/2025/0223.pdf)
-<strong><span class='show_paper_citations' data-paper-id='JJEEfUIAAAAJ:hqOjcs7Dif8C'></span></strong>
-
-- Yongqi Wang, Xinxiao Wu, <strong>Shuo Yang</strong>$\dagger$
-- *The 34th International Joint Conference on Artificial Intelligence (IJCAI), 2025.*
-  
-  [[Paper]](https://arxiv.org/abs/2505.06663) [[BibTex]](/images/IJCAI2025.bib) [[Code]](https://github.com/wangyongqi558/METOR)
-</div>
-</div>
-
-<!-- --------------------------------------------------------------------------------------------------------- -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI 2025</div><img src='/images/TPAMI2025.png' alt="sym" width="100%" height="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[End-to-end Open-vocabulary Video Visual Relationship Detection using Multi-modal Prompting](https://ieeexplore.ieee.org/abstract/document/10966052)
-<strong><span class='show_paper_citations' data-paper-id='JJEEfUIAAAAJ:LkGwnXOMwfcC'></span></strong>
-
-- Yongqi Wang, Xinxiao Wu, <strong>Shuo Yang</strong>, Jiebo Luo
-- *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025.*
-  
-  [[Paper]](https://arxiv.org/abs/2409.12499) [[BibTex]](/images/TPAMI2025.bib) [[Code]](https://github.com/wangyongqi558/EOV-MMP-VidVRD)
-</div>
-</div>
-
-<!-- --------------------------------------------------------------------------------------------------------- -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='/images/AAAI2025.png' alt="sym" width="100%" height="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Video Summarization using Denoising Diffusion Probabilistic Model](https://ojs.aaai.org/index.php/AAAI/article/view/32727)
-<strong><span class='show_paper_citations' data-paper-id='JJEEfUIAAAAJ:UebtZRa9Y70C'></span></strong>
-
-- Zirui Shang, Yubo Zhu, Hongxi Li, **Shuo Yang**, Xinxiao Wu
-- *The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025.*
-  
-  [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32727) [[BibTex]](/images/AAAI25.bib)
-</div>
-</div>
-
-<!-- --------------------------------------------------------------------------------------------------------- -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM 2024</div><img src='/images/TMM24.png' alt="sym" width="100%" height="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Dynamic Pathway for Query-Aware Feature Learning in Language-Driven Action Localization](https://ieeexplore.ieee.org/document/10449438)
-<strong><span class='show_paper_citations' data-paper-id='JJEEfUIAAAAJ:eQOLeE2rZwMC'></span></strong>
-
-- **Shuo Yang**, Xinxiao Wu, Zirui Shang, Jiebo Luo
-- *IEEE Transactions on Multimedia (TMM), 2024.*
-  
-  [[Paper]](/images/TMM24.pdf) [[BibTex]](/images/TMM24.bib)
-</div>
-</div>
-
-<div id="publications-more" class="publications-more" hidden markdown="0">
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='/images/AAAI24.png' alt="sym" width="100%" height="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Multi-Modal Prompting for Open-Vocabulary Video Visual Relationship Detection](https://ojs.aaai.org/index.php/AAAI/article/view/28472)
-<strong><span class='show_paper_citations' data-paper-id='JJEEfUIAAAAJ:_FxGoFyzp5QC'></span></strong>
-
-- **Shuo Yang**$\ast$, Yongqi Wang$\ast$, Xiaofeng Ji, Xinxiao Wu
-- *The 38th Annual AAAI Conference on Artificial Intelligence (AAAI), 2024.*
-  
-  [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28472/28919) [[BibTex]](/images/AAAI24.bib) [[Code]](https://github.com/wangyongqi558/MMP_OV_VidVRD)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='/images/MM23.png' alt="sym" width="100%" height="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Probability Distribution Based Frame-supervised Language-driven Action Localization](https://dl.acm.org/doi/10.1145/3581783.3612512)
-<strong><span class='show_paper_citations' data-paper-id='JJEEfUIAAAAJ:YsMSGLbcyi4C'></span></strong>
-
-- **Shuo Yang**, Zirui Shang, Xinxiao Wu
-- *The 31st ACM International Conference on Multimedia (ACM MM), 2023.*
-  
-  [[Paper]](/images/MM23.pdf) [[BibTex]](/images/MM23.bib) [[Code]](https://github.com/shuoyang129/Distrbution-based-Frame-Supervised-LDAL)
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='/images/IJCAI22.png' alt="sym" width="100%" height="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Entity-aware and Motion-aware Transformers for Language-driven Action Localization](https://www.ijcai.org/proceedings/2022/0216.pdf) 
-<strong><span class='show_paper_citations' data-paper-id='JJEEfUIAAAAJ:ufrVoPGSRksC'></span></strong>
-
-- **Shuo Yang**, Xinxiao Wu
-- *The 31st International Joint Conference on Artificial Intelligence (IJCAI), 2022.*
-  
-  [[Paper]](https://www.ijcai.org/proceedings/2022/0216.pdf) [[BibTex]](/images/IJCAI22.bib) [[Code]](https://github.com/shuoyang129/EAMAT/)
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2020</div><img src='/images/CVPR20.png' alt="sym" width="100%" height="50%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[High-Order Information Matters: Learning Relation and Topology for Occluded Person Re-Identification](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_High-Order_Information_Matters_Learning_Relation_and_Topology_for_Occluded_Person_CVPR_2020_paper.pdf) 
-<strong><span class="show_paper_citations" data-paper-id="JJEEfUIAAAAJ:9yKSN-GCB0IC"></span></strong>
-
-- Guan'an Wang$\ast$, **Shuo Yang**$\ast$, Huanyu Liu, Zhicheng Wang, Yang Yang, Shuliang Wang, Gang Yu, Jian Sun
-- *In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.*
-  
-  [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_High-Order_Information_Matters_Learning_Relation_and_Topology_for_Occluded_Person_CVPR_2020_paper.pdf) [[BibTex]](/images/CVPR20.bib) [[Code]](https://github.com/wangguanan/HOReID/)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2018</div><img src='/images/TIP18.png' alt="sym" width="100%" height="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Joint Hand Detection and Rotation Estimation Using CNN](https://ieeexplore.ieee.org/document/8128503) 
-<strong><span class='show_paper_citations' data-paper-id='JJEEfUIAAAAJ:u-x6o8ySG0sC'></span></strong>
-
-- Xiaoming Deng, Yinda Zhang, **Shuo Yang**, Ping Tan, Liang Chang, Ye Yuan, Hongan Wang
-- *IEEE Transactions on Image Processing (TIP), 27(4):1888-1900, 2018.* 
-
-  [[Paper]](/images/TIP18.pdf) [[Project Page]](http://www.idengxm.com/handdetection/index.html)
-  <!-- <a href="http://www.idengxm.com/handdetection/TIP2018_handdeteciton_cameraready.pdf" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">paper</a>
-  <a  href="/images/CVPR20.bib" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">BibTex</a>
-  <a  href="http://www.idengxm.com/handdetection/index.html" style="background: linear-gradient(to bottom, #0074D9, #0056b3); color: #fff; padding: 10px 20px; border-radius: 20px; text-decoration: none; display: inline-block;">Project Page</a> -->
-  
-</div>
-</div>
-<ul class="publications-extra-list">
-<li><code class="language-plaintext highlighter-rouge">CVIU 2026</code><strong><span class='show_paper_citations' data-paper-id='JJEEfUIAAAAJ:3fE2CSJIrl8C'></span></strong>, <a href="https://www.sciencedirect.com/science/article/pii/S1077314226002432">Open-vocabulary multi-label action recognition in movies via LLM-enhanced prompt tuning</a>, Rongjiang Zhu, Xinxiao Wu, <strong>Shuo Yang</strong>$\dagger$, Yuheng Shi, Ziyi Wang </li>
-<li><code class="language-plaintext highlighter-rouge">计算机研究与发展 2025</code><strong><span class='show_paper_citations' data-paper-id='JJEEfUIAAAAJ:KlAtU1dfN6UC'></span></strong>, <a href="https://crad.ict.ac.cn/article/cstr/32373.14.issn1000-1239.202440522">大语言模型知识引导的开放域多标签动作识别</a>, 朱荣江, 石语珩, <strong>杨硕</strong>, 王子奕, 吴心筱 </li>
-<li><code class="language-plaintext highlighter-rouge">SPL 2024</code><strong><span class='show_paper_citations' data-paper-id='JJEEfUIAAAAJ:Se3iqnhoufwC'></span></strong>, <a href="https://ieeexplore.ieee.org/abstract/document/10740465">Source-free Image-text Matching via Uncertainty-aware Learning</a>, Mengxiao Tian, <strong>Shuo Yang</strong>$\dagger$, Xinxiao Wu, Yunde Jia </li>
-<li><code class="language-plaintext highlighter-rouge">PRCV 2024</code><strong><span class='show_paper_citations' data-paper-id='JJEEfUIAAAAJ:roLk4NBRz8UC'></span></strong>, <a href="https://link.springer.com/chapter/10.1007/978-981-97-8620-6_38">Efficient Language-Driven Action Localization by Feature Aggregation and Prediction Adjustment</a>, Zirui Shang, <strong>Shuo Yang</strong>$\dagger$, Xinxiao Wu </li>
-<!-- <li><code class="language-plaintext highlighter-rouge">Arxiv 2024</code><strong><span class='show_paper_citations' data-paper-id='JJEEfUIAAAAJ:LkGwnXOMwfcC'></span></strong>, <a href="https://arxiv.org/abs/2409.12499">End-to-end Open-vocabulary Video Visual Relationship Detection using Multi-modal Prompting</a>, Yongqi Wang, <strong>Shuo Yang</strong>, Xinxiao Wu, Jiebo Luo</li> -->
-<!-- <li><code class="language-plaintext highlighter-rouge">Arxiv 2024</code><strong><span class='show_paper_citations' data-paper-id='JJEEfUIAAAAJ:WF5omc3nYNoC'></span></strong>, <a href="https://arxiv.org/pdf/2403.01209.pdf">Data-free Multi-label Image Recognition via LLM-powered Prompt Tuning</a>, <strong>Shuo Yang</strong>, Zirui Shang, Yongqi Wang, Derong Deng, Hongwei Chen, Qiyuan Cheng, Xinxiao Wu </li> -->
-<li><code class="language-plaintext highlighter-rouge">Arxiv 2017</code><strong><span class='show_paper_citations' data-paper-id='JJEEfUIAAAAJ:d1gkVwhDpl0C'></span></strong>,  <a href="https://arxiv.org/pdf/1704.02224.pdf">Hand3D: Hand Pose Estimation using 3D Neural Network</a>, Xiaoming Deng$\ast$, <strong>Shuo Yang</strong>$\ast$, Yinda Zhang$\ast$, Ping Tan, Liang Chang, Hongan Wang </li>
-<li><code class="language-plaintext highlighter-rouge">Acta Automatica Sinica 2016</code><strong><span class='show_paper_citations' data-paper-id='JJEEfUIAAAAJ:qjMakFHDy7sC'></span></strong>, <a href="https://faculty.csu.edu.cn/_resources/group1/M00/00/67/wKiylWIpceKAYBdpAA4EeS6lmws466.pdf">Convolutional neural networks in image understanding</a>, Liang Chang, Xiaoming Deng, Mingquan Zhou, Zhongke Wu, Ye Yuan, <strong>Shuo Yang</strong>, Hongan Wang  </li>
+<section class="ml-section ml-about" id="about-me" markdown="0">
+<h2>About Me</h2>
+<ul class="ml-interests"><li>Computer Vision</li><li>Vision &amp; Language</li><li>Embodied AI</li></ul>
+<p>My research lies at the intersection of computer vision, natural language, and robotics, with a recent focus on <strong>Embodied AI</strong>. I aim to build robots that can understand human instructions, perceive and reason about 3D environments, and act reliably in the physical world. My current work centers on:</p>
+<ul class="ml-focus">
+<li><b>Robot Manipulation</b>: language-guided manipulation with robotic arms, and mobile manipulation with arm-equipped quadruped robots.</li>
+<li><b>Human-Robot Interaction</b>: interactive grounding that resolves ambiguous human instructions through dialogue.</li>
+<li><b>Multimodal Perception</b>: 3D visual grounding and 3D affordance understanding for actionable scene perception.</li>
 </ul>
-
+<p>Previously, I worked on language-driven video understanding and open-vocabulary image/video recognition, as well as hand detection, hand pose estimation, face recognition, and person re-identification.</p>
+<div class="ml-recruit">🎓 Welcome students who are interested in the research of <strong>Embodied AI</strong> and <strong>Vision &amp; Language</strong> to join us!</div>
+<div class="ml-contact">
+<span class="ml-contact__label">Contact</span>
+<a class="ml-contact__item" href="mailto:yangshuo@smbu.edu.cn">{% include icon-mail.svg %}<span>yangshuo@smbu.edu.cn</span><em>Work</em></a>
+<a class="ml-contact__item" href="mailto:yangshuo129@gmail.com">{% include icon-mail.svg %}<span>yangshuo129@gmail.com</span><em>Personal</em></a>
 </div>
+</section>
 
-<p class="publications-more-actions"><button type="button" class="btn publications-toggle" aria-expanded="false" aria-controls="publications-more" data-label-more="Show more" data-label-less="Show less">Show more</button></p>
+<section class="ml-section" id="news" markdown="1">
+<h2>News</h2>
 
+<div class="ml-news" markdown="1">
+- *2026.10* A <a href="https://arxiv.org/abs/2505.24282"><span>language-driven action localization</span></a> paper is accepted by <span class="venue">IJCV</span> 2026 (<span class="venue">CCF-A, 中科院一区, JCR Q1, IF=10.3</span>)!
+- *2026.07* An <a href="https://www.sciencedirect.com/science/article/pii/S1077314226002432"><span>open-vocabulary multi-label action recognition</span></a> paper is accepted by <span class="venue">CVIU</span> 2026 (<span class="venue">CCF-B, JCR Q2, IF=3.6</span>)!
+- *2026.05* An <a href="https://openreview.net/forum?id=tkOMvqB6E9"><span>interactive 3D grounding framework and dataset</span></a> paper is accepted by <span class="venue">ICML</span> 2026 (<span class="venue">CCF-A</span> conference)!
+- *2025.12* An <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325016498"><span>image-free multi-label image recognition</span></a> paper is accepted by <span class="venue">Pattern Recognition</span> 2026 (<span class="venue">中科院一区, JCR Q1, IF=7.6</span>)!
+- *2025.06* An <a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Tian_LLM-enhanced_Action-aware_Multi-modal_Prompt_Tuning_for_Image-Text_Matching_ICCV_2025_paper.pdf"><span>image-text matching</span></a> paper is accepted by <span class="venue">ICCV</span> 2025 (<span class="venue">CCF-A</span> conference)!
+- *2025.04* A <a href="https://www.ijcai.org/proceedings/2025/0223.pdf"><span>video visual relationship detection</span></a> paper is accepted by <span class="venue">IJCAI</span> 2025 (<span class="venue">CCF-A</span> conference)!
+- *2025.04* A <a href="https://ieeexplore.ieee.org/abstract/document/10966052/"><span>video visual relationship detection</span></a> paper is accepted by <span class="venue">IEEE TPAMI</span> 2025 (<span class="venue">CCF-A, 中科院一区, JCR Q1, IF=20.8</span>)!
+- *2025.01* An <a href="https://crad.ict.ac.cn/article/cstr/32373.14.issn1000-1239.202440522"><span>open-vocabulary multi-label action classification</span></a> paper is published in <span class="venue">《计算机研究与发展》</span> 2025 (CCF-A Chinese, IF=2.65)!
+- *2024.12* A <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32727"><span>video Summarization </span></a> paper is accepted by <span class="venue">AAAI</span> 2025 (<span class="venue">CCF-A</span> conference)!
+- *2024.10* An <a href="https://ieeexplore.ieee.org/abstract/document/10740465"><span>image-text matching</span></a> paper is accepted by <span class="venue">IEEE Signal Processing Letter</span> 2024 (<span class="venue">JCR Q2, 中科院三区, IF=3.2</span>)!
+- *2024.10* A <a href="https://link.springer.com/chapter/10.1007/978-981-97-8620-6_38"><span> language-driven action localization</span></a> paper is accepted by <span class="venue">PRCV</span> 2024 (CCF-C conference)!
+- *2024.06* I graduated from Beijing Institute of Technology (北京理工大学) and got a position as an Associate Professor at <a href="https://www.smbu.edu.cn/info/5731/106871.htm"> Shenzhen MSU-BIT University (深圳北理莫斯科大学)! </a>
+- *2024.02* A <a href="https://ieeexplore.ieee.org/document/10449438"><span>language-driven action localization</span></a> paper is accepted by <span class="venue">IEEE TMM</span> 2024 (<span class="venue">中科院一区, JCR Q1, IF=7.3</span>)!
+- *2023.12* A <a href="https://ojs.aaai.org/index.php/AAAI/article/view/28472"><span>video visual relationship detection</span></a> paper is accepted by <span class="venue">AAAI</span> 2024 (<span class="venue">CCF-A</span> conference)!
+- *2023.07* A <a href="https://dl.acm.org/doi/10.1145/3581783.3612512"><span>frame-supervised language-driven action localization</span></a> paper is accepted by <span class="venue">ACM MM</span> 2023 (<span class="venue">CCF-A</span> conference)!
+- *2022.04* A <a href="http://arxiv.org/abs/2205.05854"><span> language-driven action localization</span></a> paper is accepted by <span class="venue">IJCAI</span> 2022 (<span class="venue">CCF-A</span> conference)!
+- *2021.06* I attend a new research group under supervised by Prof.<a href="https://wuxinxiao.github.io/">Xinxiao Wu.</a>
+- *2020.03* A <a href="https://arxiv.org/abs/2003.08177"><span>person re-identification</span></a> paper is accepted by <span class="venue">CVPR</span> 2020 (<span class="venue">CCF-A</span> conference)!
 </div>
+</section>
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  
-  -->
+<section class="ml-section" id="publications" markdown="0">
+<h2>Publications</h2>
+<div class="ml-pub-meta">
+<a href="https://scholar.google.com/citations?user=JJEEfUIAAAAJ" target="_blank" rel="noopener"><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar citations"></a>
+<span><sup>*</sup> equal contribution &nbsp;·&nbsp; <sup>†</sup> corresponding author</span>
+</div>
+{% include publications.html zh=false step=5 %}
+</section>
 
-# 📖 Educations {#educations}
-- *2018.09 - 2024.06*, Ph.D. in Computer Science, School of Computer Science & Technology, Beijing Institute of Technology. 
-    
-    Advisor: [Shuliang Wang](https://cs.bit.edu.cn/szdw/jsml/bssds/e33ed58303834b8bacb757f38538e00d.htm)(2018.09 - 2021.06) and [Xinxiao Wu](https://wuxinxiao.github.io/) from 2021.06. 
-- *2014.09 - 2017.07*, M.S. in Computer Science, Institute of Software, Chinese Academic of Science. 
+<section class="ml-section" id="educations" markdown="0">
+<h2>Education</h2>
+<ul class="ml-timeline">
+  <li><span class="ml-when">2018.09 - 2024.06</span><div><div class="ml-where">Ph.D. in Computer Science, School of Computer Science &amp; Technology, Beijing Institute of Technology</div><div class="ml-note">Advisor: <a href="https://cs.bit.edu.cn/szdw/jsml/bssds/e33ed58303834b8bacb757f38538e00d.htm">Shuliang Wang</a>(2018.09 - 2021.06) and <a href="https://wuxinxiao.github.io/">Xinxiao Wu</a> from 2021.06.</div></div></li>
+  <li><span class="ml-when">2014.09 - 2017.07</span><div><div class="ml-where">M.S. in Computer Science, Institute of Software, Chinese Academic of Science</div><div class="ml-note">Advisor: <a href="http://www.idengxm.com/">Xiaoming Deng</a>.</div></div></li>
+  <li><span class="ml-when">2010.09 - 2014.07</span><div><div class="ml-where">B.S. in Computer Science, School of Information, Beijing Union University.</div></div></li>
+</ul>
+</section>
 
-  Advisor: [Xiaoming Deng](http://www.idengxm.com/). 
-- *2010.09 - 2014.07*, B.S. in Computer Science, School of Information, Beijing Union University. 
-
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
- -->
-# 💻 Experiences {#experiences}
-- *2024.06 - now*, Associate Professor at [Shenzhen MSU-BIT University](https://en.smbu.edu.cn/), Shenzhen, China.
-- *2019.05 - 2020.02*, Research intern at [Megvii-inc](https://en.megvii.com/), Beijing, China.
-- *2017.07 - 2018.08*, Algorithm engineer at [JD Finance](https://jr.jddinnovation.com/), Beijing, China.
+<section class="ml-section" id="experiences" markdown="0">
+<h2>Experience</h2>
+<ul class="ml-timeline">
+  <li><span class="ml-when">2024.06 - now</span><div><div class="ml-where">Associate Professor at <a href="https://en.smbu.edu.cn/">Shenzhen MSU-BIT University</a>, Shenzhen, China.</div></div></li>
+  <li><span class="ml-when">2019.05 - 2020.02</span><div><div class="ml-where">Research intern at <a href="https://en.megvii.com/">Megvii-inc</a>, Beijing, China.</div></div></li>
+  <li><span class="ml-when">2017.07 - 2018.08</span><div><div class="ml-where">Algorithm engineer at <a href="https://jr.jddinnovation.com/">JD Finance</a>, Beijing, China.</div></div></li>
+</ul>
+</section>

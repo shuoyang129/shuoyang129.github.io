@@ -1,0 +1,141 @@
+/* ==========================================================================
+   Responsive: tablet & mobile
+   ========================================================================== */
+
+/* Tablet: narrower profile column */
+@media (max-width: 1024px) {
+  .ml-wrapper {
+    grid-template-columns: 220px minmax(0, 1fr);
+    gap: 40px;
+    padding: 0 24px;
+  }
+
+  .ml-avatar-ring { width: 148px; }
+  .ml-profile__card { padding: 26px 14px 20px; }
+  .ml-pub { gap: 16px; }
+  .ml-pub__thumb { flex-basis: 170px; width: 170px; }
+}
+
+/* Mobile: profile becomes a top header, nav becomes a sticky tab bar */
+@media (max-width: 820px) {
+  .ml-wrapper {
+    display: block;
+    padding: 0;
+  }
+
+  .ml-profile {
+    position: static;
+    height: auto;
+    overflow: visible;
+    padding: 16px 14px 0;
+    text-align: left;
+  }
+
+  .ml-profile__card {
+    position: relative;
+    padding: 20px 16px 16px;
+    border-radius: 16px;
+  }
+
+  .ml-profile__inner {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+
+  .ml-avatar-ring {
+    flex: 0 0 auto;
+    width: 96px;
+    margin: 0;
+    padding: 2px;
+  }
+
+  .ml-avatar { border-width: 2px; }
+
+  .ml-name { font-size: 1.6rem; }
+  .ml-name__alt { display: inline; margin-left: 8px; font-size: 0.85rem; letter-spacing: 0.04em; }
+  .ml-position { margin-top: 6px; }
+
+  .ml-social {
+    justify-content: flex-start;
+    margin: 14px 0 0 -8px;
+  }
+
+  .ml-tools {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    margin: 0;
+  }
+
+  .ml-nav {
+    position: sticky;
+    top: 0;
+    z-index: 30;
+    flex-direction: row;
+    gap: 4px;
+    max-width: none;
+    margin: 12px 0 0;
+    padding: 8px 14px;
+    overflow-x: auto;
+    white-space: nowrap;
+    background: color-mix(in srgb, var(--bg) 88%, transparent);
+    -webkit-backdrop-filter: saturate(180%) blur(12px);
+    backdrop-filter: saturate(180%) blur(12px);
+    border: 0;
+    border-bottom: 1px solid var(--line);
+    border-radius: 0;
+    scrollbar-width: none;
+
+    &::-webkit-scrollbar { display: none; }
+
+    a {
+      flex: 0 0 auto;
+      padding: 6px 14px;
+      font-size: 0.88rem;
+      background: var(--bg-soft);
+      border-radius: 999px;
+
+      &::before { display: none; }
+    }
+  }
+
+  .ml-content { padding: 8px 20px 32px; }
+
+  .ml-content > h2,
+  .ml-content .ml-section > h2 {
+    margin-top: 36px;
+    font-size: 1.5rem;
+    scroll-margin-top: 64px;
+  }
+
+  .ml-about p { text-align: left; }
+}
+
+@media (max-width: 600px) {
+  .ml-pub {
+    flex-direction: column;
+    gap: 10px;
+    padding: 14px 0;
+  }
+
+  .ml-pub__thumb { flex-basis: auto; width: 100%; max-width: 320px; }
+  .ml-pub__body { width: 100%; }
+
+  .ml-news li { padding-left: 0; }
+  .ml-news li > em:first-child { position: static; display: block; line-height: 1.4; }
+
+  .ml-timeline li { grid-template-columns: 1fr; gap: 2px; }
+}
+
+@media (max-width: 380px) {
+  .ml-avatar-ring { width: 86px; }
+  .ml-name { font-size: 1.4rem; }
+  .ml-tools { top: 10px; right: 10px; transform: scale(0.92); transform-origin: top right; }
+}
+
+@media print {
+  .ml-tools, .ml-nav, .ml-more { display: none !important; }
+  .ml-wrapper { display: block; }
+  .ml-profile { position: static; height: auto; }
+}

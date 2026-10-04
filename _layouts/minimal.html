@@ -1,0 +1,91 @@
+---
+layout: compress
+---
+{% assign zh = false %}{% if page.lang == 'zh' %}{% assign zh = true %}{% endif %}
+{% assign a = site.author %}
+<!doctype html>
+<html lang="{% if zh %}zh-CN{% else %}en{% endif %}">
+<head>
+  <meta charset="utf-8">
+  {% include seo.html %}
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script>
+    (function () {
+      try {
+        var t = localStorage.getItem('theme');
+        if (!t) t = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        document.documentElement.setAttribute('data-theme', t);
+      } catch (e) {}
+    })();
+  </script>
+  <link rel="stylesheet" href="{{ '/assets/css/minimal.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/academicons.css' | relative_url }}">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ 'images/apple-touch-icon.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ 'images/favicon-32x32.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ 'images/favicon-16x16.png' | relative_url }}">
+  <meta name="theme-color" content="#ffffff">
+  <script>
+    window.MathJax = { tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] }, chtml: { scale: 0.95 } };
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" async></script>
+</head>
+<body>
+  <div class="ml-wrapper">
+
+    <header class="ml-profile">
+     <div class="ml-profile__card">
+      <div class="ml-profile__inner">
+        <span class="ml-avatar-ring"><img class="ml-avatar" src="{{ a.avatar | relative_url }}" alt="{{ a.name }}" width="160" height="160"></span>
+        <div class="ml-profile__text">
+          <h1 class="ml-name">{% if zh %}{{ a.name_zh }}<span class="ml-name__alt">{{ a.name_en }}</span>{% else %}{{ a.name_en }}<span class="ml-name__alt">{{ a.name_zh }}</span>{% endif %}</h1>
+          <p class="ml-position">{% if zh %}{{ a.position_zh }}{% else %}{{ a.position_en }}{% endif %}</p>
+          <p class="ml-affil"><a href="{{ a.affiliation_url }}" target="_blank" rel="noopener">{% if zh %}{{ a.affiliation_zh }}{% else %}{{ a.affiliation_en }}{% endif %}</a></p>
+          <p class="ml-email"><a href="mailto:{{ a.email }}">{{ a.email }}</a></p>
+        </div>
+      </div>
+
+      <div class="ml-social">
+        {% if a.googlescholar %}<a href="{{ a.googlescholar }}" target="_blank" rel="noopener" title="Google Scholar" aria-label="Google Scholar"><i class="ai ai-google-scholar"></i></a>{% endif %}
+        {% if a.dblp %}<a href="{{ a.dblp }}" target="_blank" rel="noopener" title="DBLP" aria-label="DBLP"><i class="ai ai-dblp"></i></a>{% endif %}
+        {% if a.orcid %}<a href="{{ a.orcid }}" target="_blank" rel="noopener" title="ORCID" aria-label="ORCID"><i class="ai ai-orcid"></i></a>{% endif %}
+        {% if a.github %}<a href="https://github.com/{{ a.github }}" target="_blank" rel="noopener" title="GitHub" aria-label="GitHub">{% include icon-github.svg %}</a>{% endif %}
+        {% if a.email %}<a href="mailto:{{ a.email }}" title="Email" aria-label="Email">{% include icon-mail.svg %}</a>{% endif %}
+      </div>
+
+      <nav class="ml-nav" aria-label="{% if zh %}页面导航{% else %}Sections{% endif %}">
+        {% if zh %}{% assign nav_links = site.data.navigation_zh.main %}{% else %}{% assign nav_links = site.data.navigation.main %}{% endif %}
+        {% for link in nav_links %}
+          {% assign anchor = link.url | split: '#' | last %}
+          <a href="#{{ anchor }}" data-target="{{ anchor }}">{{ link.title }}</a>
+        {% endfor %}
+      </nav>
+
+      <div class="ml-tools">
+        <div class="ml-lang" role="group" aria-label="Language">
+          {% if zh %}
+            <a href="{{ '/' | relative_url }}">EN</a><span aria-current="true">中文</span>
+          {% else %}
+            <span aria-current="true">EN</span><a href="{{ '/zh/' | relative_url }}">中文</a>
+          {% endif %}
+        </div>
+        <button type="button" class="ml-theme" id="ml-theme-toggle" aria-label="{% if zh %}切换深色模式{% else %}Toggle dark mode{% endif %}">
+          <span class="ml-theme__sun">{% include icon-sun.svg %}</span>
+          <span class="ml-theme__moon">{% include icon-moon.svg %}</span>
+        </button>
+      </div>
+     </div>
+    </header>
+
+    <main class="ml-content">
+      {{ content }}
+      <footer class="ml-footer">
+        © {{ site.time | date: '%Y' }} {{ a.name_en }}{% if zh %} · 最后更新 {{ site.time | date: '%Y-%m-%d' }}{% else %} · Last updated {{ site.time | date: '%b %Y' }}{% endif %}
+      </footer>
+    </main>
+  </div>
+
+  <script src="{{ 'assets/js/minimal.js' | relative_url }}"></script>
+  {% include analytics.html %}
+  {% include fetch_google_scholar_stats.html %}
+</body>
+</html>
