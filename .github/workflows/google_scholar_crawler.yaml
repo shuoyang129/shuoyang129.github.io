@@ -62,8 +62,11 @@ jobs:
         for f in gs_data.json gs_data_shieldsio.json; do
           resp=$(curl -fsS --retry 3 --retry-delay 5 "https://purge.jsdelivr.net/${base}/${f}") || { echo "::warning::jsDelivr purge request failed for ${f}"; failed=1; continue; }
           echo "${f}: ${resp}"
-          if ! echo "${resp}" | grep -q '"status":"finished"'; then
+          if ! echo "${resp}" | grep -Eq '"status"[[:space:]]*:[[:space:]]*"finished"'; then
             echo "::warning::jsDelivr purge not finished for ${f}"
+            failed=1
+          elif echo "${resp}" | grep -Eq '"throttled"[[:space:]]*:[[:space:]]*true'; then
+            echo "::warning::jsDelivr purge throttled for ${f}"
             failed=1
           fi
         done
