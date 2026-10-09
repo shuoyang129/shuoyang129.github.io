@@ -2,6 +2,19 @@
 # authors: use <b>Shuo Yang</b> for self, <sup>*</sup> equal contribution, <sup>†</sup> corresponding.
 # selected: true -> shown with thumbnail; false -> compact "more" list.
 
+- badge: IJCV 2026
+  title: "LLM-powered Query Expansion for Enhancing Boundary Prediction in Language-driven Action Localization"
+  url: https://arxiv.org/abs/2505.24282
+  authors: "Zirui Shang, Xinxiao Wu, <b>Shuo Yang</b><sup>†</sup>"
+  venue: International Journal of Computer Vision
+  venue_short: IJCV
+  year: 2026
+  thumb: /images/IJCV2026.png
+  selected: true
+  links:
+    - { name: Paper, url: "https://arxiv.org/abs/2505.24282" }
+  bib: /images/IJCV2026.bib
+
 - badge: ICML 2026
   title: "AmbiRefer3D: 3D Visual Grounding with Referential Ambiguity"
   url: https://openreview.net/forum?id=tkOMvqB6E9
