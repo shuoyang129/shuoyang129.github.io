@@ -38,7 +38,7 @@ redirect_from:
 <h2>News</h2>
 
 <div class="ml-news" markdown="1">
-- *2026.10* A <a href="https://arxiv.org/abs/2505.24282"><span>language-driven action localization</span></a> paper is accepted by <span class="venue">IJCV</span> 2026 (<span class="venue">CCF-A, 中科院一区, JCR Q1, IF=10.3</span>)!
+- *2026.10* A <a href="https://link.springer.com/article/10.1007/s11263-026-03083-9"><span>language-driven action localization</span></a> paper is accepted by <span class="venue">IJCV</span> 2026 (<span class="venue">CCF-A, 中科院一区, JCR Q1, IF=10.3</span>)!
 - *2026.07* An <a href="https://www.sciencedirect.com/science/article/pii/S1077314226002432"><span>open-vocabulary multi-label action recognition</span></a> paper is accepted by <span class="venue">CVIU</span> 2026 (<span class="venue">CCF-B, JCR Q2, IF=3.6</span>)!
 - *2026.05* An <a href="https://openreview.net/forum?id=tkOMvqB6E9"><span>interactive 3D grounding framework and dataset</span></a> paper is accepted by <span class="venue">ICML</span> 2026 (<span class="venue">CCF-A</span> conference)!
 - *2025.12* An <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325016498"><span>image-free multi-label image recognition</span></a> paper is accepted by <span class="venue">Pattern Recognition</span> 2026 (<span class="venue">中科院一区, JCR Q1, IF=7.6</span>)!

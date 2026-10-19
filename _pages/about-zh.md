@@ -35,7 +35,7 @@ excerpt: ""
 <h2>学术动态</h2>
 
 <div class="ml-news" markdown="1">
-- *2026.10* <a href="https://arxiv.org/abs/2505.24282"><span>语言驱动的动作定位</span></a> 论文被 <span class="venue">IJCV</span> 2026 录用（<span class="venue">CCF-A, 中科院一区, JCR Q1, IF=10.3</span>）！
+- *2026.10* <a href="https://link.springer.com/article/10.1007/s11263-026-03083-9"><span>语言驱动的动作定位</span></a> 论文被 <span class="venue">IJCV</span> 2026 录用（<span class="venue">CCF-A, 中科院一区, JCR Q1, IF=10.3</span>）！
 - *2026.07* <a href="https://www.sciencedirect.com/science/article/pii/S1077314226002432"><span>开放词汇多标签动作识别</span></a> 论文被 <span class="venue">CVIU</span> 2026 录用（<span class="venue">CCF-B, JCR Q2, IF=3.6</span>）！
 - *2026.05* <a href="https://openreview.net/forum?id=tkOMvqB6E9"><span>交互式三维场景定位（3D grounding）框架与数据集</span></a> 论文被 <span class="venue">ICML</span> 2026 录用（<span class="venue">CCF-A</span>）！
 - *2025.12* <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325016498"><span>无图像多标签图像识别</span></a> 论文被 <span class="venue">Pattern Recognition</span> 2026 录用（<span class="venue">中科院一区, JCR Q1, IF=7.6</span>）！
